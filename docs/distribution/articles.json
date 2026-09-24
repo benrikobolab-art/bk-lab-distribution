@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900071922614518124505257881032498",
+      "title": "AIに聞けば何でも分かるのに「知識を覚える」必要はある？ 間違いを見抜ける人との差",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n116497e4aae9",
+      "published_at": "2026-09-25T08:05:36+09:00",
+      "image": "media/BK-900071922614518124505257881032498-4755a2c1593135a1.jpg",
+      "image_sha256": "4755a2c1593135a1f3f2e94331cf198cb482173a0335126204cdce87c0ec966e"
+    },
+    {
+      "bk_id": "BK-900063105449985724288788542638178",
+      "title": "個人投資家の「はっしゃん式」は再現できる？ 銘柄選びを過去データで検証するときの考え方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne704e2e98220",
+      "published_at": "2026-09-25T08:04:35+09:00",
+      "image": "media/BK-900063105449985724288788542638178-4eab531eab62f7fc.jpg",
+      "image_sha256": "4eab531eab62f7fcef2b05c7a055c98a666a28a47b705bcfc87ab8880d42920b"
+    },
+    {
       "bk_id": "BK-90006301757341595128702655154496",
       "title": "「便利そうだからAIを入れよう」が失敗しやすい理由",
       "category": "",
