@@ -1,4 +1,23 @@
 {
   "schema_version": 1,
-  "articles": []
+  "articles": [
+    {
+      "bk_id": "BK-90006301757341595128702655154496",
+      "title": "「便利そうだからAIを入れよう」が失敗しやすい理由",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n3b997c917abd",
+      "published_at": "2026-09-24T07:58:59+09:00",
+      "image": "media/BK-90006301757341595128702655154496-e909aea73b80cbe2.jpg",
+      "image_sha256": "e909aea73b80cbe27bcbd6705779c19cbad06a60c4dec8028552a1a7f54eeff8"
+    },
+    {
+      "bk_id": "BK-900011344459156395538011825555149",
+      "title": "金100％＋米国債100％は危険？ 新ETF「626A」を8年分の資料で読み解く",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n76be3a67ec55",
+      "published_at": "2026-09-24T07:47:44+09:00",
+      "image": "media/BK-900011344459156395538011825555149-416b91f6bdb54ce1.jpg",
+      "image_sha256": "416b91f6bdb54ce19f4fbdcf5f910a33f037a793aab1575e9a9ce7faacb449a6"
+    }
+  ]
 }
