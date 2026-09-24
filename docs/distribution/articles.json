@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900055911086504854686094957217075",
+      "title": "「AI担当を1人決めたのに進まない」会社で起きていること",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n885b4e428dd2",
+      "published_at": "2026-09-25T08:07:44+09:00",
+      "image": "media/BK-900055911086504854686094957217075-198eee6c3b1c3085.jpg",
+      "image_sha256": "198eee6c3b1c30859395a0fa67b6bf780a194affa124be69db178c873cc4d6fd"
+    },
+    {
       "bk_id": "BK-900071922614518124505257881032498",
       "title": "AIに聞けば何でも分かるのに「知識を覚える」必要はある？ 間違いを見抜ける人との差",
       "category": "",
