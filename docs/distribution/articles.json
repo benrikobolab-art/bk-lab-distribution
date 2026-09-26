@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900042694537136897160417525824913",
+      "title": "DX・API・クラウド・SaaS。会議で出るIT用語を「仕事の言葉」に訳す",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n389c9edf94da",
+      "published_at": "2026-09-27T08:30:25+09:00",
+      "image": "media/BK-900042694537136897160417525824913-4d6af380c0e79e63.jpg",
+      "image_sha256": "4d6af380c0e79e6392306f62bc4a6bb1aab25bbcdd6ee9414574bc6afb8c63f7"
+    },
+    {
+      "bk_id": "BK-900071308983348189218496798798395",
+      "title": "「アップデートは後で」が危ない理由。Windows・Chrome・Acrobatの更新を分けて考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8a08f239805f",
+      "published_at": "2026-09-27T08:27:51+09:00",
+      "image": "media/BK-900071308983348189218496798798395-076926acd92f5c42.jpg",
+      "image_sha256": "076926acd92f5c42a1d32171ffc5ad33d3cd2bf83541f58571d0db58e95e2b2b"
+    },
+    {
+      "bk_id": "BK-900077819023169227852881103391141",
+      "title": "「月5,000円なら楽」の前に。10万円のリボ払いで総額を確認する方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n70cb12c43561",
+      "published_at": "2026-09-27T08:25:23+09:00",
+      "image": "media/BK-900077819023169227852881103391141-c778f19dd6200c60.jpg",
+      "image_sha256": "c778f19dd6200c60d04bfa74ee448096af23d1b9b7ad2974acccabf4b4b6ce68"
+    },
+    {
       "bk_id": "BK-900028759149809861829950611587391",
       "title": "「AIで日報を楽にしよう」が1か月で使われなくなるのはなぜ？",
       "category": "",
