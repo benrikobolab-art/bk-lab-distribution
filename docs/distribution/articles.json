@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900028759149809861829950611587391",
+      "title": "「AIで日報を楽にしよう」が1か月で使われなくなるのはなぜ？",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n073f71042fb6",
+      "published_at": "2026-09-26T09:37:02+09:00",
+      "image": "media/BK-900028759149809861829950611587391-61ee14e16bc0db87.jpg",
+      "image_sha256": "61ee14e16bc0db87960f12c46453c5d733c138be697e97d5e191c16dd96dcd55"
+    },
+    {
+      "bk_id": "BK-900053553649563588227642364325432",
+      "title": "AIは「現場経験」をどこまで代替できる？ ベテランの勘を分解して考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n082a35ee8a34",
+      "published_at": "2026-09-26T09:24:10+09:00",
+      "image": "media/BK-900053553649563588227642364325432-edb1e97add4aae33.jpg",
+      "image_sha256": "edb1e97add4aae334b8209a61c7b44d4aae57f562bb65849b3e81691e5a9666a"
+    },
+    {
       "bk_id": "BK-90009667360061323435559385093769",
       "title": "副業は「新規客」より「リピーター」が得？ 継続案件の実質時給を比べる方法",
       "category": "",
