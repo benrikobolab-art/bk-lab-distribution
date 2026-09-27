@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900047891216689413114914692444937",
+      "title": "ahamo・LINEMO・UQ・povo、12月以降の30〜40GB帯はどれを選ぶ？月額だけで決めない4社比較",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nd11cccf48501",
+      "published_at": "2026-09-28T08:09:33+09:00",
+      "image": "media/BK-900047891216689413114914692444937-2238736182f373d0.jpg",
+      "image_sha256": "2238736182f373d051b9402df8bbb521f4486ba3b4e7b38f7056a4c7f0fe35ec"
+    },
+    {
+      "bk_id": "BK-900047071107057508221186295076722",
+      "title": "ahamoとOCN モバイル ONE、12月から何が変わる？「165円値上げ」だけでは見落とす通信費の確認点",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na54c05944cff",
+      "published_at": "2026-09-28T08:07:47+09:00",
+      "image": "media/BK-900047071107057508221186295076722-f5eed02da95acc3b.jpg",
+      "image_sha256": "f5eed02da95acc3b721d3779d2a95cb09bbb5cbe669470d7e1ccfae23f0cbbc0"
+    },
+    {
       "bk_id": "BK-90001896054993095592431843399669",
       "title": "Claude Opus 5.5とGPT-6 Sol／Luna、すぐ乗り換える？発表の数字を読み分ける",
       "category": "",
