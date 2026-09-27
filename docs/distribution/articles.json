@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90001896054993095592431843399669",
+      "title": "Claude Opus 5.5とGPT-6 Sol／Luna、すぐ乗り換える？発表の数字を読み分ける",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n1828f800ebb7",
+      "published_at": "2026-09-27T10:22:39+09:00",
+      "image": "media/BK-90001896054993095592431843399669-51592f9154d909d2.jpg",
+      "image_sha256": "51592f9154d909d22cf6a91ba35df52bd7b267e8a47ec0061795ca20acc95a05"
+    },
+    {
       "bk_id": "BK-900042694537136897160417525824913",
       "title": "DX・API・クラウド・SaaS。会議で出るIT用語を「仕事の言葉」に訳す",
       "category": "",
