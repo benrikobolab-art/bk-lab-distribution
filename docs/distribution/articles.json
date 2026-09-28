@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900020774152689895903225722932801",
+      "title": "AIへ渡すファイルを迷わない。「公開・社内・機密」の3分類",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n4c86ff63b084",
+      "published_at": "2026-09-28T10:11:28+09:00",
+      "image": "media/BK-900020774152689895903225722932801-c55f3641870605bc.jpg",
+      "image_sha256": "c55f3641870605bc4858d913978a5affab7cc3aa88828d13e47d6cd983d83647"
+    },
+    {
+      "bk_id": "BK-900049115713293980171807956390207",
+      "title": "二段階認証しているから安心、は本当？ 突破される仕組みと防ぎ方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2aae90599121",
+      "published_at": "2026-09-28T10:10:03+09:00",
+      "image": "media/BK-900049115713293980171807956390207-adea33593a72cbfd.jpg",
+      "image_sha256": "adea33593a72cbfd774792443b0f17f2975e30b05a26ecd8d2c9b6a719427936"
+    },
+    {
+      "bk_id": "BK-900025809859521796066569771725297",
+      "title": "「年収の壁」を1円超えたら大損する？ 税金・社会保険の“壁”を種類別に整理",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n11a02bb2757e",
+      "published_at": "2026-09-28T10:07:29+09:00",
+      "image": "media/BK-900025809859521796066569771725297-79cd57206ab25619.jpg",
+      "image_sha256": "79cd57206ab2561922b33cbf43d42142886ea623077b1b4cfa6bc754c485f277"
+    },
+    {
       "bk_id": "BK-900047891216689413114914692444937",
       "title": "ahamo・LINEMO・UQ・povo、12月以降の30〜40GB帯はどれを選ぶ？月額だけで決めない4社比較",
       "category": "",
