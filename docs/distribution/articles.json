@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900028855194463725161580443147083",
+      "title": "Excelの表記ゆれは、入力後に直すより「入力規則」で入口をそろえる",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n64720a2db972",
+      "published_at": "2026-09-30T07:19:29+09:00",
+      "image": "media/BK-900028855194463725161580443147083-da4430a664ed8f5e.jpg",
+      "image_sha256": "da4430a664ed8f5e6558cbd4efa46c98f8d3bee07ff32d6ebd0b429f30832f20"
+    },
+    {
+      "bk_id": "BK-90001946005863970649716820385822",
+      "title": "AIの回答をそのまま採用しない。出典・日付・例外を確認する仕事の手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n7855484ed1d5",
+      "published_at": "2026-09-30T07:14:07+09:00",
+      "image": "media/BK-90001946005863970649716820385822-48ddca09071d82fa.jpg",
+      "image_sha256": "48ddca09071d82fa90fe6d2e67a12e0c210de80774f867631a9b893ebe5ec90d"
+    },
+    {
+      "bk_id": "BK-900066044246406518227604606079408",
+      "title": "NISAなのに配当から税金が引かれた？「受け取り方法」を確認する手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nba61d03fcbfe",
+      "published_at": "2026-09-30T07:11:15+09:00",
+      "image": "media/BK-900066044246406518227604606079408-93e4834e03d80654.jpg",
+      "image_sha256": "93e4834e03d806545e1ac2203a8f4290cfc767f13109c44243395d5c02975b5d"
+    },
+    {
       "bk_id": "BK-900070396755591721272056432373990",
       "title": "Claude Sonnet 5.5登場。「最大30％安い」は値下げ？ 仕事で使う前に見る3つの点",
       "category": "",
