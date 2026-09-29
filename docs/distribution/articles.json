@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900021844259348868594741599643163",
+      "title": "年収が10万円・100万円増えたら、いくら残る？ 年収300万〜900万円のモデル試算",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n042a06ef8b15",
+      "published_at": "2026-09-29T10:14:22+09:00",
+      "image": "media/BK-900021844259348868594741599643163-7ae9b6bedc6c3a64.jpg",
+      "image_sha256": "7ae9b6bedc6c3a64fee8aff08dfa44edcb0eb2a4631d62b9eac33036e543b558"
+    },
+    {
+      "bk_id": "BK-900059323199257239340758960969523",
+      "title": "一般事務はAIで消える？ 10の業務に分けると見える「残る仕事」",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nfed1317ceb81",
+      "published_at": "2026-09-29T10:11:48+09:00",
+      "image": "media/BK-900059323199257239340758960969523-ad99f7c9de9623ad.jpg",
+      "image_sha256": "ad99f7c9de9623adf6f38b21f1ba61ce4d241a88ee67c92b440c7cc8a6030c48"
+    },
+    {
+      "bk_id": "BK-900031088128481598143789438678660",
+      "title": "Excelの引き継ぎで困らない。数式セルだけ色を付ける運用ルール",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n5f96ff22b720",
+      "published_at": "2026-09-29T10:08:44+09:00",
+      "image": "media/BK-900031088128481598143789438678660-be7f1e2e2f178243.jpg",
+      "image_sha256": "be7f1e2e2f178243de9302d822e5a92da5caa6c0fb5a26d5da8ef9224d3bfbd0"
+    },
+    {
       "bk_id": "BK-900059997493191311203715638272204",
       "title": "10月1日からパート・有期雇用のルールが変わる。働く人が確認したい3点",
       "category": "",
