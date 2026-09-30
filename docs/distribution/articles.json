@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900041348896627671291793218273936",
+      "title": "OpenAI「dots」開始。会社員が導入前に確認したい4つのこと",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2b9fca3f75f0",
+      "published_at": "2026-09-30T12:35:39+09:00",
+      "image": "media/BK-900041348896627671291793218273936-1c7da1d7bc81423b.jpg",
+      "image_sha256": "1c7da1d7bc81423b96caf49f1a34d991a57e3fa399feae6569c45a7084513bc9"
+    },
+    {
       "bk_id": "BK-900028855194463725161580443147083",
       "title": "Excelの表記ゆれは、入力後に直すより「入力規則」で入口をそろえる",
       "category": "",
