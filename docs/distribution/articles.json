@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077615973591060089326921818502",
+      "title": "キャッシュレス決済は3種類まで？10分で整理候補を仮判定",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2b679f25f414",
+      "published_at": "2026-10-01T10:14:29+09:00",
+      "image": "media/BK-900077615973591060089326921818502-39eddc59970e7129.jpg",
+      "image_sha256": "39eddc59970e71294ced2082de6a67e249a4ffbf4cae578ced95d6e0197a3e76"
+    },
+    {
+      "bk_id": "BK-900017906674390990462465880717244",
+      "title": "AIでプログラマーは減る？ 数字に振り回されず、今日から備える仕事の棚卸し",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nf43d7d083975",
+      "published_at": "2026-10-01T10:12:30+09:00",
+      "image": "media/BK-900017906674390990462465880717244-f76d2128038589c6.jpg",
+      "image_sha256": "f76d2128038589c64933034881c2d9c3bb3344edab1bb22bd0056fc939af1b8a"
+    },
+    {
+      "bk_id": "BK-900052083574534036461599354367026",
+      "title": "4〜6月の残業で厚生年金保険料はどう変わる？標準報酬月額の見方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n9b4257410111",
+      "published_at": "2026-10-01T10:10:08+09:00",
+      "image": "media/BK-900052083574534036461599354367026-b4e58a9e5fad398e.jpg",
+      "image_sha256": "b4e58a9e5fad398e554649db700162ee498812e0bdc998ba81dfcfafeba24166"
+    },
+    {
       "bk_id": "BK-900041348896627671291793218273936",
       "title": "OpenAI「dots」開始。会社員が導入前に確認したい4つのこと",
       "category": "",
