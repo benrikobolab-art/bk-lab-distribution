@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900025942954111232233180328034880",
+      "title": "課税所得が10万円増えたら税率20%？所得税の本当の仕組み",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na43f13094b8b",
+      "published_at": "2026-10-03T08:29:57+09:00",
+      "image": "media/BK-900025942954111232233180328034880-19a53c1e462b836c.jpg",
+      "image_sha256": "19a53c1e462b836caaec82b9b0d4894d507c0cb67c1d8ef876b587525580a681"
+    },
+    {
+      "bk_id": "BK-900054232470730629862432508046680",
+      "title": "工場の仕事はAIで消える？組立・検査・段取り・異常対応を業務単位で分解",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2b3fe635eca4",
+      "published_at": "2026-10-03T08:24:07+09:00",
+      "image": "media/BK-900054232470730629862432508046680-27c0f0d7167b788e.jpg",
+      "image_sha256": "27c0f0d7167b788e4c332fc7da8d62e9c1fb16213a00274384317e4c58d0a3c5"
+    },
+    {
+      "bk_id": "BK-900063428991342680086136161727029",
+      "title": "生成AIニュースを読む10語――「すごい」で終わらせない基礎知識",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n55abefefe5fd",
+      "published_at": "2026-10-03T08:20:24+09:00",
+      "image": "media/BK-900063428991342680086136161727029-80a8a5dd8c1fc3e8.jpg",
+      "image_sha256": "80a8a5dd8c1fc3e85fa9649a408f009732ec28f0c7f68398e0a2ffc197e671fa"
+    },
+    {
       "bk_id": "BK-900077615973591060089326921818502",
       "title": "キャッシュレス決済は3種類まで？10分で整理候補を仮判定",
       "category": "",
