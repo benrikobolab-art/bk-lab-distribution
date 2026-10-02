@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900034971492356269629984679681668",
+      "title": "会議後メモから「担当者・期限」をExcelで抜き出す方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na4c2a59cad93",
+      "published_at": "2026-10-03T08:32:17+09:00",
+      "image": "media/BK-900034971492356269629984679681668-8b3a5a57929b3b5f.jpg",
+      "image_sha256": "8b3a5a57929b3b5fbfe11ea3fde4fb597f796ffde8457a0cd9f01bad80aac859"
+    },
+    {
       "bk_id": "BK-900025942954111232233180328034880",
       "title": "課税所得が10万円増えたら税率20%？所得税の本当の仕組み",
       "category": "",
