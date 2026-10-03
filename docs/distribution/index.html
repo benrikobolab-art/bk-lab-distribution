@@ -4,15 +4,19 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="referrer" content="no-referrer">
   <title>BK-LAB | 最新記事</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=20261003">
 </head>
 <body>
-  <header><span class="brand">BK-LAB</span><span>便利工房ラボ</span></header>
-  <main><div class="heading"><p>読みもの</p><h1>暮らしの疑問を、<br>ひとつずつ。</h1></div>
+  <header><span class="brand">便利工房ラボ</span><a href="https://www.benrikobolab.com/" target="_blank" rel="noopener noreferrer">ホームページへ</a></header>
+  <main><div class="heading"><h1 id="heading">記事を探す</h1><p id="intro">暮らしと仕事に役立つ記事を、テーマから。記事全文はnoteで開きます。</p></div>
+    <nav id="filters" aria-label="記事カテゴリ"></nav>
+    <a id="image-toggle" href="?images=0">画像なしで軽く読む</a>
     <p id="status" role="status">記事を読み込んでいます…</p>
     <section id="articles" aria-label="最新のnote記事"></section>
+    <button id="more" type="button" hidden>さらに6件表示</button>
   </main>
-  <footer>記事全文はnoteでお読みいただけます。</footer>
-  <script src="cards.js"></script>
+  <footer><a class="footer-link" id="full" href="./" target="_blank" rel="noopener noreferrer">カテゴリ別・すべての記事 →</a><a class="footer-link" href="https://note.com/benrikobo" target="_blank" rel="noopener noreferrer">noteの全記事 →</a></footer>
+  <noscript>記事一覧の表示にはJavaScriptが必要です。上のリンクからnoteをご覧ください。</noscript>
+  <script src="cards.js?v=20261003" defer></script>
 </body>
 </html>
