@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900064679616869145016280711016113",
+      "title": "NISAで出した損は確定申告で戻る？課税口座との違いを20万円の例で整理",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nabef9cc28636",
+      "published_at": "2026-10-03T09:12:43+09:00",
+      "image": "media/BK-900064679616869145016280711016113-f387c35199e0e030.jpg",
+      "image_sha256": "f387c35199e0e0307c36d03313af627f4da672ca4a1d7f6dc60837d5c974d52d"
+    },
+    {
+      "bk_id": "BK-900047749988961784011357507370822",
+      "title": "長いAI会話は「3行メモ」で翌日に引き継ぐ",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n9e8ac00f73d1",
+      "published_at": "2026-10-03T09:08:08+09:00",
+      "image": "media/BK-900047749988961784011357507370822-00abe0ec29fa6533.jpg",
+      "image_sha256": "00abe0ec29fa65339373b8df172208f2ada60e81a2e7f6ab7c5a9ee60e9cc824"
+    },
+    {
       "bk_id": "BK-900034971492356269629984679681668",
       "title": "会議後メモから「担当者・期限」をExcelで抜き出す方法",
       "category": "",
