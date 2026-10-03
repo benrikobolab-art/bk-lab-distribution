@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>お知らせ自動作成</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>お知らせ自動作成</h1>
+      <p>用途を選んで、必要な項目だけ入力</p>
+    </div>
+  </header>
+
+  <nav class="toolbar" aria-label="文書操作">
+    <label for="template">用途</label>
+    <select id="template"></select>
+    <div class="toolbar-actions">
+      <button id="newButton" type="button">新規</button>
+      <button id="historyButton" type="button">過去データ</button>
+      <button id="proofreadButton" type="button">校閲</button>
+      <button id="saveButton" type="button">保存</button>
+      <button id="printButton" class="primary" type="button">印刷・PDF保存</button>
+    </div>
+  </nav>
+
+  <main class="workspace">
+    <section class="editor-panel" aria-labelledby="editorHeading">
+      <div class="panel-heading">
+        <div><h2 id="editorHeading">入力</h2><p>空欄の項目は完成紙面に表示されません</p></div>
+        <output id="status" aria-live="polite">準備完了</output>
+      </div>
+      <form id="editorForm" novalidate>
+        <label for="titleInput">見出し</label>
+        <input id="titleInput" type="text" autocomplete="off">
+
+        <div class="label-row"><label for="introInput">一言（任意）</label><div class="season-controls"><label for="season">季節</label><select id="season"><option>春</option><option>夏</option><option>秋</option><option>冬</option></select><button id="greetingButton" type="button">時候の挨拶</button></div></div>
+        <textarea id="introInput" rows="3"></textarea>
+
+        <div class="adjustments" aria-label="紙面調整">
+          <label>一言の文字サイズ <span id="introFontValue"></span><input id="introFont" type="range" min="11" max="22" value="15"></label>
+          <label>一言の上下位置 <span id="introTopValue"></span><input id="introTop" type="range" min="18" max="40" value="23"></label>
+          <label>日時以下の上下位置 <span id="detailsTopValue"></span><input id="detailsTop" type="range" min="43" max="60" value="52"></label>
+        </div>
+
+        <div id="dynamicFields"></div>
+      </form>
+    </section>
+
+    <section class="preview-panel" aria-labelledby="previewHeading">
+      <h2 id="previewHeading">A4プレビュー</h2>
+      <div id="paperShell" class="paper-shell">
+        <article id="paper" class="paper" aria-label="A4お知らせプレビュー">
+          <div class="paper-bar"></div>
+          <h3 id="previewTitle"></h3>
+          <p id="previewIntro" class="preview-intro"></p>
+          <div id="previewDetails" class="preview-details"></div>
+          <footer id="previewFooter"></footer>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="historyDialog"><form method="dialog"><div class="dialog-heading"><h2>過去データ</h2><button value="cancel" aria-label="閉じる">×</button></div><div id="historyList"></div><p class="dialog-actions"><button value="cancel">閉じる</button></p></form></dialog>
+  <dialog id="proofreadDialog"><form method="dialog"><div class="dialog-heading"><h2>簡易校閲（AIなし）</h2><button value="cancel" aria-label="閉じる">×</button></div><ul id="proofreadList"></ul><p class="dialog-actions"><button value="cancel" class="primary">確認</button></p></form></dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
+
