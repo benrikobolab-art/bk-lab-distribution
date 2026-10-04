@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900010902896987267850068840509822",
+      "title": "PowerPointの図形を揃える前に、余白の基準を1つ決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n719a4dda64ab",
+      "published_at": "2026-10-04T09:07:27+09:00",
+      "image": "media/BK-900010902896987267850068840509822-37c1ddf35f592a37.jpg",
+      "image_sha256": "37c1ddf35f592a37abea735d35e70f77ec65bb8ab824ddd14e6d2b2f78658888"
+    },
+    {
       "bk_id": "BK-900021198826268328558481126700378",
       "title": "パスキーはなぜフィッシングに強い？ SMS認証との違いを初心者向けに解説",
       "category": "",
