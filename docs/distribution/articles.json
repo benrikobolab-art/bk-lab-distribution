@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900016620915500412068540724601026",
+      "title": "朝の支度が遅れる日は、一朝だけ時刻を残してみる",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n1f92a32b2608",
+      "published_at": "2026-10-05T10:52:36+09:00",
+      "image": "media/BK-900016620915500412068540724601026-84674609c89161d1.jpg",
+      "image_sha256": "84674609c89161d14f345906052a15bd1127de79e43d1c811d2edfa0a4e4f9ae"
+    },
+    {
+      "bk_id": "BK-900037363239591535005566776719877",
+      "title": "片耳イヤホンで会議と家事は両立できる？買う前に確認したい5つの条件",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nb2b4183f5f20",
+      "published_at": "2026-10-05T10:49:38+09:00",
+      "image": "media/BK-900037363239591535005566776719877-ee6cec5ef02b191b.jpg",
+      "image_sha256": "ee6cec5ef02b191b30821c88e5fb32aac037a03202357556b99bdedbad0ed172"
+    },
+    {
+      "bk_id": "BK-900053515579650628405982949689300",
+      "title": "家族なら全部見られる？GoogleとAppleの「デジタル終活」を整理する",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n1cff56171e69",
+      "published_at": "2026-10-05T10:44:31+09:00",
+      "image": "media/BK-900053515579650628405982949689300-b37b87010bbdb476.jpg",
+      "image_sha256": "b37b87010bbdb47692b8d06fbc72b0ae73abd4083566f9bd8252287b3bb5534b"
+    },
+    {
       "bk_id": "BK-900010902896987267850068840509822",
       "title": "PowerPointの図形を揃える前に、余白の基準を1つ決める",
       "category": "",
