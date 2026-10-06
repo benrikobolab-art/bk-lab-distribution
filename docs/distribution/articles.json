@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900027798447118748182691545656970",
+      "title": "ケーブル収納は「長さ×接続先×使う場所」で決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8b7636e1d967",
+      "published_at": "2026-10-06T12:02:21+09:00",
+      "image": "media/BK-900027798447118748182691545656970-bbff1742866d03c2.jpg",
+      "image_sha256": "bbff1742866d03c26fa7802769c05e6c22b78c13208c743856da61039f6abdd4"
+    },
+    {
+      "bk_id": "BK-900056701144458294734147111215976",
+      "title": "職場OJTを「教えたつもり」で終わらせない6手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nf2a373b3d24e",
+      "published_at": "2026-10-06T12:01:39+09:00",
+      "image": "media/BK-900056701144458294734147111215976-b15b4132b6e43453.jpg",
+      "image_sha256": "b15b4132b6e434530ed4605a0ca0e8f36019903e77b1740d5157f0ab875c8449"
+    },
+    {
       "bk_id": "BK-900077904119516602366419245051035",
       "title": "AIの「できました」をどう確かめる？保存先・根拠・確認結果で見る3つのポイント",
       "category": "",
