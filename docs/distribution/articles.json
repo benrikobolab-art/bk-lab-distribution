@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077904119516602366419245051035",
+      "title": "AIの「できました」をどう確かめる？保存先・根拠・確認結果で見る3つのポイント",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6c73e4f0236a",
+      "published_at": "2026-10-06T11:47:59+09:00",
+      "image": "media/BK-900077904119516602366419245051035-fb2d940d642de3e6.jpg",
+      "image_sha256": "fb2d940d642de3e659c9b4d62b3c08aacef45a0b5e5bb8b26ac751498ae39e7a"
+    },
+    {
       "bk_id": "BK-900016620915500412068540724601026",
       "title": "朝の支度が遅れる日は、一朝だけ時刻を残してみる",
       "category": "",
