@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900031006376044803080682719096361",
+      "title": "AIに表を頼む前に、列ごとの仕様書を作る",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nfb5c4cd86e47",
+      "published_at": "2026-10-07T12:49:21+09:00",
+      "image": "media/BK-900031006376044803080682719096361-14e056d31d06364e.jpg",
+      "image_sha256": "14e056d31d06364e22f3c5a4d5cc40a1090c297fdc2af7aca402b743abffa14f"
+    },
+    {
       "bk_id": "BK-900075971972291838326645434243124",
       "title": "余った調味料は「用途」から使う。保存表示を優先する使い切り整理",
       "category": "",
