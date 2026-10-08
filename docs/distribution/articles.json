@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900045693046412406678932470255846",
+      "title": "アプリ削除では解約できない。サブスク契約で確認する4つの言葉",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8b525e591a8e",
+      "published_at": "2026-10-08T13:46:19+09:00",
+      "image": "media/BK-900045693046412406678932470255846-975d538803d0cc64.jpg",
+      "image_sha256": "975d538803d0cc648208369e676a0d922a54893df7ca12ee920101c35d314b4e"
+    },
+    {
+      "bk_id": "BK-90001863186056075007626740755271",
+      "title": "ビール系飲料の酒税統一。「第3のビール」と価格の見方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc69a5a8b374e",
+      "published_at": "2026-10-08T13:45:07+09:00",
+      "image": "media/BK-90001863186056075007626740755271-bffc974513135d39.jpg",
+      "image_sha256": "bffc974513135d39c3ce6a703136292454197deb7e8c6491576df6d40abb3802"
+    },
+    {
       "bk_id": "BK-900014094816646214425244991998177",
       "title": "帰宅後すぐ動けない日に、最初の家事を一つだけ決める",
       "category": "",
