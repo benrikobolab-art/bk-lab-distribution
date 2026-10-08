@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900014094816646214425244991998177",
+      "title": "帰宅後すぐ動けない日に、最初の家事を一つだけ決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2a19f444442f",
+      "published_at": "2026-10-08T13:41:43+09:00",
+      "image": "media/BK-900014094816646214425244991998177-2ddb87c2d65bd214.jpg",
+      "image_sha256": "2ddb87c2d65bd214c2d76187563d88e33563685915d7a3ae3185bee912501696"
+    },
+    {
       "bk_id": "BK-900031006376044803080682719096361",
       "title": "AIに表を頼む前に、列ごとの仕様書を作る",
       "category": "",
