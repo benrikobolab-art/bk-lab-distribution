@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900061959310170169085425846393176",
+      "title": "Webカメラを買う前に、照明の位置と逆光を確認する",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n4eef42e133e5",
+      "published_at": "2026-10-09T14:08:19+09:00",
+      "image": "media/BK-900061959310170169085425846393176-452e1ae1197c59ab.jpg",
+      "image_sha256": "452e1ae1197c59abe14cc16815afc2dd322c9bf2bdb63e18fd67a36f4cf5985c"
+    },
+    {
+      "bk_id": "BK-900076628809727783362360750893949",
+      "title": "捨てるか迷う物は保留箱へ。見直し日まで決める片づけ手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne6f74e9c9054",
+      "published_at": "2026-10-09T14:06:34+09:00",
+      "image": "media/BK-900076628809727783362360750893949-a2659c0252230ee6.jpg",
+      "image_sha256": "a2659c0252230ee6ccdf664b3d49cf7801dff5f40fbf9cb482203fc13b646d8c"
+    },
+    {
       "bk_id": "BK-900045043684990840689543914030729",
       "title": "キャッシュレス手数料は店と客でどう見える？ 費用を分けて考える",
       "category": "",
