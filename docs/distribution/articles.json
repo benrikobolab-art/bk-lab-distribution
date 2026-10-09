@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900045043684990840689543914030729",
+      "title": "キャッシュレス手数料は店と客でどう見える？ 費用を分けて考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n026220312afc",
+      "published_at": "2026-10-09T12:53:42+09:00",
+      "image": "media/BK-900045043684990840689543914030729-9cc948825e6ac00a.jpg",
+      "image_sha256": "9cc948825e6ac00a2a8a25a41b58a230e38963ba20afe6a4e7dcc342fa409a60"
+    },
+    {
       "bk_id": "BK-900045693046412406678932470255846",
       "title": "アプリ削除では解約できない。サブスク契約で確認する4つの言葉",
       "category": "",
