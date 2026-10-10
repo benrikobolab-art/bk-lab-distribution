@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900074679950422839418843743360553",
+      "title": "スマホ「実質24円」で迷ったら。返却条件と総額を読む",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0fd7321f35d3",
+      "published_at": "2026-10-10T10:16:25+09:00",
+      "image": "media/BK-900074679950422839418843743360553-331a31d30f7777db.jpg",
+      "image_sha256": "331a31d30f7777db3de1f4db059c5b8dbc551b1312a10329fb8f15be53954055"
+    },
+    {
       "bk_id": "BK-900061959310170169085425846393176",
       "title": "Webカメラを買う前に、照明の位置と逆光を確認する",
       "category": "",
