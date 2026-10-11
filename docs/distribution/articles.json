@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900017924794814444620157775065907",
+      "title": "古いスマホを再利用する前に。更新状況と電池から用途を決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n40e7e3ca796c",
+      "published_at": "2026-10-11T10:03:38+09:00",
+      "image": "media/BK-900017924794814444620157775065907-dd0a92a31a2bd83d.jpg",
+      "image_sha256": "dd0a92a31a2bd83d65e24b3706fc88a22e22e02264ede90177a211e3cc6462be"
+    },
+    {
+      "bk_id": "BK-900034298149396047220447077303042",
+      "title": "買い物リストを店別に分ける。買い忘れを振り返る手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8279d229216a",
+      "published_at": "2026-10-11T10:01:59+09:00",
+      "image": "media/BK-900034298149396047220447077303042-01544e4c7b30d1ee.jpg",
+      "image_sha256": "01544e4c7b30d1ee6495c75e9750502c7c643ec33f2afaf96de8174fb4059db0"
+    },
+    {
       "bk_id": "BK-900062009363341414559151771931251",
       "title": "家族が見つけられるデジタル引き継ぎ表｜契約の存在と問い合わせ先を残す",
       "category": "",
