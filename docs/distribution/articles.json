@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900071277051452044239709810767088",
+      "title": "新しいWindows 11 PCで最初に確認したいセキュリティ10項目",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n649bdf0e6a29",
+      "published_at": "2026-10-14T07:40:26+09:00",
+      "image": "media/BK-900071277051452044239709810767088-7faf6e00d6be6ce9.jpg",
+      "image_sha256": "7faf6e00d6be6ce9b87a2eebc159c4889d50f1237c0ea3dcc3b01f2ba5e65ff5"
+    },
+    {
       "bk_id": "BK-900049255242106560137296828177190",
       "title": "新NISAは年末調整に書く？会社員が迷いやすい5項目",
       "category": "",
