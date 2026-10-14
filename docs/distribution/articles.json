@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900067245874921704447826977507730",
+      "title": "夫婦のデジタル契約メモを安全に点検・保守する方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n259251bb2cd9",
+      "published_at": "2026-10-15T07:26:54+09:00",
+      "image": "media/BK-900067245874921704447826977507730-3c5e8ced598ad59b.jpg",
+      "image_sha256": "3c5e8ced598ad59b05d6f9bdf7f62ee01f7267f110b85ce3021502a7cf26c5b3"
+    },
+    {
       "bk_id": "BK-900061185275697852583890357803619",
       "title": "請求書・宅配・税金メールが届いたら。添付を開く前の確認手順",
       "category": "",
