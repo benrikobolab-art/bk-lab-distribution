@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900058071431714936402364479024812",
+      "title": "残価設定ローンは月額だけで決めない。最後の支払いと返却条件まで見る方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nedc77736855a",
+      "published_at": "2026-10-15T15:07:54+09:00",
+      "image": "media/BK-900058071431714936402364479024812-9926fc615a59f52b.jpg",
+      "image_sha256": "9926fc615a59f52b25550c538380f2c4c83bbc666c5c01ecb90a2ee3d67f22ad"
+    },
+    {
       "bk_id": "BK-900067245874921704447826977507730",
       "title": "夫婦のデジタル契約メモを安全に点検・保守する方法",
       "category": "",
