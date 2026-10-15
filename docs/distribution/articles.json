@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90007593634197780435657282077541",
+      "title": "Chromeのタブを閉じる前に、保存対象を分ける3手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n798feb7cc068",
+      "published_at": "2026-10-16T07:42:30+09:00",
+      "image": "media/BK-90007593634197780435657282077541-bd1026296d97cc27.jpg",
+      "image_sha256": "bd1026296d97cc2774a696e5b22891d54f8837432b15365b80b59d4fbcea5067"
+    },
+    {
       "bk_id": "BK-900067288148934504607688896984133",
       "title": "ストップ高・ストップ安・特別気配。株価表示が動かないときの確認順",
       "category": "",
