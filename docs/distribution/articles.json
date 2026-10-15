@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900067288148934504607688896984133",
+      "title": "ストップ高・ストップ安・特別気配。株価表示が動かないときの確認順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na8db10d88987",
+      "published_at": "2026-10-16T07:40:10+09:00",
+      "image": "media/BK-900067288148934504607688896984133-9d52a6490fb81204.jpg",
+      "image_sha256": "9d52a6490fb81204a75ca4a45590f3f2cc108d60c7baf1e36d20a19d69197417"
+    },
+    {
+      "bk_id": "BK-90008630473061991054641311400297",
+      "title": "「仕切りたがる人」は本当に面倒？役割と決定権を分けて考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0941f714bc89",
+      "published_at": "2026-10-16T07:38:57+09:00",
+      "image": "media/BK-90008630473061991054641311400297-2503f0fcfbb78081.jpg",
+      "image_sha256": "2503f0fcfbb7808168fedf8b74d117bd775f4de5b0bc8be5bf088c612f40b52e"
+    },
+    {
       "bk_id": "BK-900058071431714936402364479024812",
       "title": "残価設定ローンは月額だけで決めない。最後の支払いと返却条件まで見る方法",
       "category": "",
