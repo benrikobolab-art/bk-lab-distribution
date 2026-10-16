@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900063159636553564107629512152150",
+      "title": "音声入力とキー入力、速いのはどっち？10分メモで比べる条件のそろえ方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne927d239abdc",
+      "published_at": "2026-10-17T06:55:01+09:00",
+      "image": "media/BK-900063159636553564107629512152150-827f19c6a35c5123.jpg",
+      "image_sha256": "827f19c6a35c5123b926fa767b4f5a884cb090fa8c4783ae15fd20eb3362fdef"
+    },
+    {
       "bk_id": "BK-900019372397546740576595921949853",
       "title": "老齢基礎年金と老齢厚生年金、何が違う？最初に覚える10語",
       "category": "",
