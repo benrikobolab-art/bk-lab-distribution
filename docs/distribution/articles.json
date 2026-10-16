@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900056631818662650040368361955937",
+      "title": "PowerPointの文字を減らす「1枚1メッセージ」の直し方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6b6ef4184f9d",
+      "published_at": "2026-10-17T06:57:38+09:00",
+      "image": "media/BK-900056631818662650040368361955937-fb67360a8e67cf12.jpg",
+      "image_sha256": "fb67360a8e67cf12ccf4a9aa88d06fd54feaa76580a62423f50d1995b9bc6d38"
+    },
+    {
       "bk_id": "BK-900063159636553564107629512152150",
       "title": "音声入力とキー入力、速いのはどっち？10分メモで比べる条件のそろえ方",
       "category": "",
