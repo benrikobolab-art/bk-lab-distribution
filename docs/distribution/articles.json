@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900075198644024829592064166602147",
+      "title": "冷蔵庫の臭い対策、コーヒーかすと保冷剤を置く前に確認したいこと",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc3b7b7d556e4",
+      "published_at": "2026-10-19T12:36:48+09:00",
+      "image": "media/BK-900075198644024829592064166602147-3d206e538ddcde61.jpg",
+      "image_sha256": "3d206e538ddcde6176f06cb8db404a0042049fc748249c22a0eb175ef6225535"
+    },
+    {
       "bk_id": "BK-900010131082313250635885384241204",
       "title": "AIで文章を直しすぎない。修正を終える基準を先に決める",
       "category": "",
