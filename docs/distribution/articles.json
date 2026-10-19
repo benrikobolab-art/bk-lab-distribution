@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900014659787353326629694594756796",
+      "title": "Excelの月次ファイルを増やさない。1ブックで年を回す設計",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc3fa3b35bd26",
+      "published_at": "2026-10-19T12:27:06+09:00",
+      "image": "media/BK-900014659787353326629694594756796-bb0ac775b425b370.jpg",
+      "image_sha256": "bb0ac775b425b370ad70ada1fb88b70b6c6be152ab242d3e819367483491c2cd"
+    },
+    {
       "bk_id": "BK-900063258215786850217087806630865",
       "title": "捨てる前に迷う野菜5部位。使う・除く・やめるの判断基準",
       "category": "",
