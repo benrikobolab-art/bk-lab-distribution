@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90001489639027095541140712617565",
+      "title": "AIエージェントの認証情報はどう守る？権限と失効先を確認する",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc30cae41b944",
+      "published_at": "2026-10-20T07:27:05+09:00",
+      "image": "media/BK-90001489639027095541140712617565-f1296bd7c7136dc3.jpg",
+      "image_sha256": "f1296bd7c7136dc326cbbabd5956e90fd074cbb9c0ecf57a82f3c29860381242"
+    },
+    {
       "bk_id": "BK-90008716254789537370862543867172",
       "title": "バッグが重いとき、まず何を量る？持ち物の見直し手順",
       "category": "",
