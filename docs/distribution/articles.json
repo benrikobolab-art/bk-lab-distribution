@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900010131082313250635885384241204",
+      "title": "AIで文章を直しすぎない。修正を終える基準を先に決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0e484c873862",
+      "published_at": "2026-10-19T12:31:11+09:00",
+      "image": "media/BK-900010131082313250635885384241204-7b990c8687421b7c.jpg",
+      "image_sha256": "7b990c8687421b7c97bb918e20e207a92b1dc8c4188b8af9e663ca53306e689f"
+    },
+    {
       "bk_id": "BK-900014659787353326629694594756796",
       "title": "Excelの月次ファイルを増やさない。1ブックで年を回す設計",
       "category": "",
