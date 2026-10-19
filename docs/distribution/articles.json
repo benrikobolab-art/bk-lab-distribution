@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900055837447204794534180819890980",
+      "title": "投信の分配金、入金額だけでは利益と呼べない。明細を読む4つの確認点",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0bfda9481523",
+      "published_at": "2026-10-20T07:37:36+09:00",
+      "image": "media/BK-900055837447204794534180819890980-905b6314fc5dafff.jpg",
+      "image_sha256": "905b6314fc5dafff5c38b9067d9a344889da9a1c6e108ff17dc5c46e785af275"
+    },
+    {
       "bk_id": "BK-90001489639027095541140712617565",
       "title": "AIエージェントの認証情報はどう守る？権限と失効先を確認する",
       "category": "",
