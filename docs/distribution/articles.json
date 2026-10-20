@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900014169595992075494065992992810",
+      "title": "ChatGPT・Gemini・Claudeを仕事別に選ぶ｜メール・Excel・PDF・議事録・調べ物",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na417fd09fce7",
+      "published_at": "2026-10-20T13:00:48+09:00",
+      "image": "media/BK-900014169595992075494065992992810-4d1560f96f660f82.jpg",
+      "image_sha256": "4d1560f96f660f82aa63f3e76249cb0606de48c1102fa74b404d30f268d9d14b"
+    },
+    {
       "bk_id": "BK-900022576522218270324231055619865",
       "title": "My SoftBankなどウェブ版一時停止。分かっていることと確認順",
       "category": "",
