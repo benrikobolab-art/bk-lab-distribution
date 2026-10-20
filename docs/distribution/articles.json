@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900022576522218270324231055619865",
+      "title": "My SoftBankなどウェブ版一時停止。分かっていることと確認順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n754135127f8d",
+      "published_at": "2026-10-20T11:47:39+09:00",
+      "image": "media/BK-900022576522218270324231055619865-75917b24f3329cc2.jpg",
+      "image_sha256": "75917b24f3329cc2cc93e77e4e11b1106868540f78f2ff2f5cbabbf423e7882a"
+    },
+    {
       "bk_id": "BK-900055837447204794534180819890980",
       "title": "投信の分配金、入金額だけでは利益と呼べない。明細を読む4つの確認点",
       "category": "",
