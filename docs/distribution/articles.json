@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900051633150862814742708246995180",
+      "title": "外貨定期の年利8％、円に戻すとどうなる？為替と費用を分けて試算",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8fb234741876",
+      "published_at": "2026-10-22T15:19:42+09:00",
+      "image": "media/BK-900051633150862814742708246995180-b79009568b3d332d.jpg",
+      "image_sha256": "b79009568b3d332d1de1f06ff0e206641aea4e3c6ecfb6d31f89ec7eef0dbeb1"
+    },
+    {
       "bk_id": "BK-900020040934317007475491361701439",
       "title": "紙のレシート入力をどう比べる？準備・入力・訂正を分けて測る",
       "category": "",
