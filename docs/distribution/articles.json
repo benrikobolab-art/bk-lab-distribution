@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900047388381965201150558954297813",
+      "title": "小型キーボードは本当に省スペース？机の占有範囲を比べる手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0bdaf044c0fb",
+      "published_at": "2026-10-24T08:05:11+09:00",
+      "image": "media/BK-900047388381965201150558954297813-69cb2d0440a89fb0.jpg",
+      "image_sha256": "69cb2d0440a89fb0bc9c48d3783fa82378d025402ce2f68f29e48785bd2d7c85"
+    },
+    {
       "bk_id": "BK-90006945418466041349953511900136",
       "title": "ソフトバンクなどで緊急速報メール停止中。代替通知で確認する設定",
       "category": "",
