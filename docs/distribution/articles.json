@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90006945418466041349953511900136",
+      "title": "ソフトバンクなどで緊急速報メール停止中。代替通知で確認する設定",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n5a29204355df",
+      "published_at": "2026-10-24T03:09:17+09:00",
+      "image": "media/BK-90006945418466041349953511900136-ba1b0e5bf6e6b645.jpg",
+      "image_sha256": "ba1b0e5bf6e6b64567db421eb4c15bd9b990e573bd805c1a0017e685190e3b66"
+    },
+    {
       "bk_id": "BK-900072480516101056568829566312695",
       "title": "PER・PBR・ROE・配当利回りは何を比べる数字？4指標の読み分け方",
       "category": "",
