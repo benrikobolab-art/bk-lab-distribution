@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900022136856508442807167024700948",
+      "title": "SpotifyのAI PersonaとAI Creditsは何が違う？おすすめ除外・削除も分けて読む",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nff9aa4741c0d",
+      "published_at": "2026-10-25T15:11:53+09:00",
+      "image": "media/BK-900022136856508442807167024700948-3fd863f9b9bc4fff.jpg",
+      "image_sha256": "3fd863f9b9bc4fff8a309f03728a217a5b666513acbdac2e8104c081cdf5635c"
+    },
+    {
       "bk_id": "BK-900061930438441783648250754644427",
       "title": "パナソニックの生成AIへの個人情報入力、対象・削除・保持を分けて確認",
       "category": "",
