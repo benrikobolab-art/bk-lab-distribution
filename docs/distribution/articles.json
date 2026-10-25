@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900048615580341640998326097191095",
+      "title": "梨は大きいほど甘い？品種と見た目を分けて選ぶ",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ncf18dc2948ed",
+      "published_at": "2026-10-25T10:09:04+09:00",
+      "image": "media/BK-900048615580341640998326097191095-f9829391d05ba7fc.jpg",
+      "image_sha256": "f9829391d05ba7fcb8014884cc91e67e3c61fbcf772aebfd64bb96f120fb4b83"
+    },
+    {
       "bk_id": "BK-900017125834020536041434055986330",
       "title": "米国株をNISAで持つと配当はどうなる？日本と米国の税を分けて確認",
       "category": "",
