@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900053205596919758543437833025323",
+      "title": "古タオルや古歯ブラシはどこに使える？製品・部位別の確認手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n1b483992899e",
+      "published_at": "2026-10-26T07:21:12+09:00",
+      "image": "media/BK-900053205596919758543437833025323-f40b693d8f990cac.jpg",
+      "image_sha256": "f40b693d8f990cacda73b2f074b16a22c29fa62a88517d747421312314c5e3c5"
+    },
+    {
+      "bk_id": "BK-900024762728258695188581247107110",
+      "title": "月1万円の保険、30年でいくら払う？家族で確認するケース",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8ad471e5ac2b",
+      "published_at": "2026-10-26T07:18:59+09:00",
+      "image": "media/BK-900024762728258695188581247107110-a842585318febddd.jpg",
+      "image_sha256": "a842585318febddda672dc4d09293150f422d5154e31bacc4a0642de749c9458"
+    },
+    {
       "bk_id": "BK-900022136856508442807167024700948",
       "title": "SpotifyのAI PersonaとAI Creditsは何が違う？おすすめ除外・削除も分けて読む",
       "category": "",
