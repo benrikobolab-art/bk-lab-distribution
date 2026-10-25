@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900017125834020536041434055986330",
+      "title": "米国株をNISAで持つと配当はどうなる？日本と米国の税を分けて確認",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6ab72e5d5fe4",
+      "published_at": "2026-10-25T10:07:55+09:00",
+      "image": "media/BK-900017125834020536041434055986330-cb1aac6078540072.jpg",
+      "image_sha256": "cb1aac6078540072d6cd315fcc2742dcb1128fca361d6e8c2f72970b00ade9b3"
+    },
+    {
+      "bk_id": "BK-900043589719120223537355998789355",
+      "title": "余ったルーターや映像端末、再利用する前にサポートを確認する",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc353620e024c",
+      "published_at": "2026-10-25T10:06:17+09:00",
+      "image": "media/BK-900043589719120223537355998789355-f713b6a03b98ed5a.jpg",
+      "image_sha256": "f713b6a03b98ed5a16c8c508c200b84a42bb20202d9f704541560b76f237343a"
+    },
+    {
       "bk_id": "BK-900047663353016633260286614804292",
       "title": "教育費の積立を増やす前に、固定費から無理のない余力を探す",
       "category": "",
