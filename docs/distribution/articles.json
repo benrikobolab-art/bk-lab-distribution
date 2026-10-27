@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90006990132170407002025852312242",
+      "title": "「PDFを開くだけで乗っ取られる」は本当？仕組みと今できる3つの対策",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2efea995cb45",
+      "published_at": "2026-10-28T07:27:39+09:00",
+      "image": "media/BK-90006990132170407002025852312242-98bbc1e448eaeedf.jpg",
+      "image_sha256": "98bbc1e448eaeedf10c091ed3a4ff2fc23927febc6fda9a96286ab3f5783c42a"
+    },
+    {
       "bk_id": "BK-900066127186903104736023894905832",
       "title": "ネット銀行・証券・暗号資産、家族にパスワードを渡さず「資産の存在」を残す方法",
       "category": "",
