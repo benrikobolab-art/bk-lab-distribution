@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900066127186903104736023894905832",
+      "title": "ネット銀行・証券・暗号資産、家族にパスワードを渡さず「資産の存在」を残す方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na6610f731a47",
+      "published_at": "2026-10-28T07:26:34+09:00",
+      "image": "media/BK-900066127186903104736023894905832-e953586201ba5ec3.jpg",
+      "image_sha256": "e953586201ba5ec3449da01a65580323fc0a97b268bb7c164a0335a96e369aea"
+    },
+    {
+      "bk_id": "BK-900069756689639709070177386712663",
+      "title": "怪しいURLをクリックしなければ安全？リンク詐欺で見るべき5つのポイント",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc2ae185bf263",
+      "published_at": "2026-10-28T07:24:44+09:00",
+      "image": "media/BK-900069756689639709070177386712663-5501461b2371747c.jpg",
+      "image_sha256": "5501461b2371747cf5f88481dd4cd4da9bbed5da3318bf58122fb1a8c28bcf01"
+    },
+    {
       "bk_id": "BK-900034583647197926514452301522383",
       "title": "ハロウィンは好き。でも街の騒ぎは苦手。その両方があっていい",
       "category": "",
