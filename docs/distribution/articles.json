@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900069424004833175822454941167649",
+      "title": "親のPCを守るならどこを設定する？家族で確認したい詐欺対策7項目",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n27dac430ac64",
+      "published_at": "2026-10-27T18:58:13+09:00",
+      "image": "media/BK-900069424004833175822454941167649-ffaee5148aec433b.jpg",
+      "image_sha256": "ffaee5148aec433b73b8ab2c2c76dda254cd9bb7473c606dc560557dcacf03d0"
+    },
+    {
+      "bk_id": "BK-900028742351217090275342561563390",
+      "title": "AIエージェントへ任せる作業を、失敗時の影響で並べ替える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n4ebe00118435",
+      "published_at": "2026-10-27T18:56:53+09:00",
+      "image": "media/BK-900028742351217090275342561563390-b340e51c812e64c3.jpg",
+      "image_sha256": "b340e51c812e64c323223c35ef36021889aae93d2d7f883fd419ee5767e9a1cf"
+    },
+    {
       "bk_id": "BK-900061266445951116863603655959246",
       "title": "ポイント企画を見る前に、買う予定を二列のメモへ残す",
       "category": "",
