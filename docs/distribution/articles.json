@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900075192785134198762861226456516",
+      "title": "AIの誤回答を責める前に。入力の不足を点検する6項目",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nd3c5a310a422",
+      "published_at": "2026-10-29T07:36:19+09:00",
+      "image": "media/BK-900075192785134198762861226456516-1506ee7d518229e3.jpg",
+      "image_sha256": "1506ee7d518229e3ac2e456eaf6d5a7095886a7116f3b678005f2b8888bc485d"
+    },
+    {
+      "bk_id": "BK-900062033340128301330237990660534",
+      "title": "Excelの集計表で、元データと見た目を分ける理由",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n11f2f78d9f62",
+      "published_at": "2026-10-29T07:34:46+09:00",
+      "image": "media/BK-900062033340128301330237990660534-ab33d86092a698f9.jpg",
+      "image_sha256": "ab33d86092a698f98c8d6595e131098bd551436a649676d4bcfc4c083f9695e0"
+    },
+    {
       "bk_id": "BK-90006990132170407002025852312242",
       "title": "「PDFを開くだけで乗っ取られる」は本当？仕組みと今できる3つの対策",
       "category": "",
