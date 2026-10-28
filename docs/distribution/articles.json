@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900074367496496220893026170779506",
+      "title": "「出世した人が一番優秀」とは限らない。職場には、それぞれ違う価値がある",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nb2b989a095f7",
+      "published_at": "2026-10-29T07:41:00+09:00",
+      "image": "media/BK-900074367496496220893026170779506-04debaba1b93a98b.jpg",
+      "image_sha256": "04debaba1b93a98becc549fe7b46d513d86dc3f1c975b35a1146af92fa761c71"
+    },
+    {
+      "bk_id": "BK-900032293548096251199042488729503",
+      "title": "iOS 27.2・iPadOS 27.2公開。対象端末と更新前に確認したいこと",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2b5e2d314155",
+      "published_at": "2026-10-29T07:40:02+09:00",
+      "image": "media/BK-900032293548096251199042488729503-72d99b9f56f6cfcb.jpg",
+      "image_sha256": "72d99b9f56f6cfcbbcfdf7df4b07944bbcd041750589d2d293175f020840e9dd"
+    },
+    {
       "bk_id": "BK-900075192785134198762861226456516",
       "title": "AIの誤回答を責める前に。入力の不足を点検する6項目",
       "category": "",
