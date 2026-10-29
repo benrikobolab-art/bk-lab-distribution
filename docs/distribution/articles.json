@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077187472583703206734740978369",
+      "title": "同じ文章を3つのAIで要約する前に。「直しやすさ」を比べる手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n4606587d7ad0",
+      "published_at": "2026-10-30T07:33:49+09:00",
+      "image": "media/BK-900077187472583703206734740978369-805dbc2e48adcc00.jpg",
+      "image_sha256": "805dbc2e48adcc001d2b96b3bf7f54b00d8b989a2e92b3c3b25ffde0f55610f2"
+    },
+    {
       "bk_id": "BK-900074367496496220893026170779506",
       "title": "「出世した人が一番優秀」とは限らない。職場には、それぞれ違う価値がある",
       "category": "",
