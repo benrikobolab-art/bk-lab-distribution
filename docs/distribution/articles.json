@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900064526518855970891356379671805",
+      "title": "PC初心者がやりがちな危険行動7選。「いつもの操作」が被害につながることも",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ndd4732632934",
+      "published_at": "2026-10-30T07:43:03+09:00",
+      "image": "media/BK-900064526518855970891356379671805-f4f840656c894346.jpg",
+      "image_sha256": "f4f840656c894346ba6c10436e68af3296165f446d1ef5c983260732abcb76d6"
+    },
+    {
+      "bk_id": "BK-900062694869483479128194798902694",
+      "title": "家族が知らないサブスク、どう残す？ 解約先まで分かる「契約の入口リスト」",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8ada16649648",
+      "published_at": "2026-10-30T07:41:53+09:00",
+      "image": "media/BK-900062694869483479128194798902694-70fb9d8f229bf817.jpg",
+      "image_sha256": "70fb9d8f229bf817fcded1bac74297a7a917ec9d46dae7d2358d4b0dea0810d4"
+    },
+    {
       "bk_id": "BK-900077187472583703206734740978369",
       "title": "同じ文章を3つのAIで要約する前に。「直しやすさ」を比べる手順",
       "category": "",
