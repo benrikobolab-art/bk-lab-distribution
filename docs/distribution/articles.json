@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900012242725107227139841036349345",
+      "title": "1Passwordが高いと感じたら？Bitwarden・Proton Passをパスキー／2FA／家族利用で辛口比較",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nba98bf42cc5e",
+      "published_at": "2026-10-31T08:09:40+09:00",
+      "image": "media/BK-900012242725107227139841036349345-c48e9c890523552b.jpg",
+      "image_sha256": "c48e9c890523552bd6d6d4b194f47a34ac05f3ef1ff6e4f315564e8fb6538146"
+    },
+    {
       "bk_id": "BK-900016525767338161160177084248044",
       "title": "家の在庫は個数に「次に買う条件」を添える",
       "category": "",
