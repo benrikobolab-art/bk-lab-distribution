@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900037168395846838083366388126318",
+      "title": "USB充電器は出力よりポート配分を見る。家族で取り合わない選び方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc9dc3190d56e",
+      "published_at": "2026-11-01T07:41:29+09:00",
+      "image": "media/BK-900037168395846838083366388126318-894f661c25f0d73e.jpg",
+      "image_sha256": "894f661c25f0d73eeb09b46f6d05e69136acc97c07e3930450895b5db30cfd8b"
+    },
+    {
       "bk_id": "BK-900036699379920817530818785382876",
       "title": "Excelの合計が合わない？「文字列・範囲・フィルター」を3つの練習で見抜く",
       "category": "",
