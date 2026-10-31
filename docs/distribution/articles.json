@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900036699379920817530818785382876",
+      "title": "Excelの合計が合わない？「文字列・範囲・フィルター」を3つの練習で見抜く",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6bf9a1458e3c",
+      "published_at": "2026-10-31T09:43:33+09:00",
+      "image": "media/BK-900036699379920817530818785382876-452e2a679202a7f7.jpg",
+      "image_sha256": "452e2a679202a7f7a1dfb797235f62a48ce825a5c6120826b458382ca1a309d4"
+    },
+    {
       "bk_id": "BK-900012242725107227139841036349345",
       "title": "1Passwordが高いと感じたら？Bitwarden・Proton Passをパスキー／2FA／家族利用で辛口比較",
       "category": "",
