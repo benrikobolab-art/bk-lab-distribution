@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900023306038957129990774240290011",
+      "title": "紙・スマホ・PCのタスク管理。二重入力を見つける比較手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n337866b2a8ed",
+      "published_at": "2026-11-02T09:51:33+09:00",
+      "image": "media/BK-900023306038957129990774240290011-2ae53b6663e62c33.jpg",
+      "image_sha256": "2ae53b6663e62c33d9883410065f7b41424df0e36b2515571fd776ae1a26fa43"
+    },
+    {
       "bk_id": "BK-900048465184575758262729000763433",
       "title": "AIへの依頼は長文より箇条書きがいい？ 同じ内容で比べる手順",
       "category": "",
