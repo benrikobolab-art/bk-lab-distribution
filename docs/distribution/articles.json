@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900070465399773914488628520936519",
+      "title": "家族カードと本会員カード、明細確認を分担する方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne00b099b2d38",
+      "published_at": "2026-11-02T09:53:51+09:00",
+      "image": "media/BK-900070465399773914488628520936519-e345bc5c2bc6751a.jpg",
+      "image_sha256": "e345bc5c2bc6751a53d6b833b210fe97bff4befcfab9e31262bb93f3212f13ca"
+    },
+    {
+      "bk_id": "BK-900059611083606392417481822958039",
+      "title": "同じ10万円増でも手取りは同じ？ 残業・昇給・ボーナス・副業を比較",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6f3d45ec52cb",
+      "published_at": "2026-11-02T09:52:45+09:00",
+      "image": "media/BK-900059611083606392417481822958039-28fe3ced9a21b274.jpg",
+      "image_sha256": "28fe3ced9a21b2745861025f17bde0a52bdf43a9d9eae11f70cb82bcfb888eb7"
+    },
+    {
       "bk_id": "BK-900023306038957129990774240290011",
       "title": "紙・スマホ・PCのタスク管理。二重入力を見つける比較手順",
       "category": "",
