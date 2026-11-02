@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900057626824260151974366231690613",
+      "title": "引っ越し後、車の住所変更を忘れていたら。通知から全所有車を確認する手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n35e0a9f6ee42",
+      "published_at": "2026-11-02T23:24:15+09:00",
+      "image": "media/BK-900057626824260151974366231690613-ffc795553a344a02.jpg",
+      "image_sha256": "ffc795553a344a02c27655ecbc0430409ced8441a96965d0a39e2a0f62ea7cab"
+    },
+    {
       "bk_id": "BK-900050634573321353762606881398291",
       "title": "ChatGPTとCodexの利用枠が共通化へ。12月から何を確認する？",
       "category": "",
