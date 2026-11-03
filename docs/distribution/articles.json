@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900034139614953775499685204382737",
+      "title": "2030年、AIでこの仕事は本当に消える？ 職業名ではなく「作業単位」で考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n1234b879527f",
+      "published_at": "2026-11-04T07:41:14+09:00",
+      "image": "media/BK-900034139614953775499685204382737-b1bf9f0b5af2e181.jpg",
+      "image_sha256": "b1bf9f0b5af2e181fe4f35cce18c3716c1137b1b9f25a00bb81d887f909e7dbb"
+    },
+    {
+      "bk_id": "BK-900070775630800626689980259416509",
+      "title": "NISAの積立額を下げる判断も正解。家計が苦しい月のルール",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc85a31914b81",
+      "published_at": "2026-11-04T07:39:40+09:00",
+      "image": "media/BK-900070775630800626689980259416509-2c216d06af17b002.jpg",
+      "image_sha256": "2c216d06af17b002d661c1681fbf1cf05de8f6cebf451463d6c7900e53e8aa24"
+    },
+    {
       "bk_id": "BK-900077536264009105366918641570871",
       "title": "現物・信用・空売りの違い。「株を持っていないのに売る」ってどういうこと？",
       "category": "",
