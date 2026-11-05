@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900055348883429031053893850444363",
+      "title": "還元率より使い切りやすさ。期間限定ポイントの出口を先に決める",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n91187d6fe409",
+      "published_at": "2026-11-05T12:10:41+09:00",
+      "image": "media/BK-900055348883429031053893850444363-f7420b3390f7d982.jpg",
+      "image_sha256": "f7420b3390f7d98255a1727e290b5994abab6569e680a012b899afa870aabc09"
+    },
+    {
       "bk_id": "BK-900077657217331630947361212944871",
       "title": "ChatGPTへの追加質問、何を聞けばいい？ すぐ使える10パターン",
       "category": "",
