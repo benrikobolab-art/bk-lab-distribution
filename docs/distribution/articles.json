@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900027011474197943257667244711681",
+      "title": "Excel表を整えたら数字が変わった？値と数式を残す3つの練習",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8cd661450798",
+      "published_at": "2026-11-05T12:35:38+09:00",
+      "image": "media/BK-900027011474197943257667244711681-4025db50048d7f13.jpg",
+      "image_sha256": "4025db50048d7f135e00ee3f4df6eaca2a0e2f0838110412e44597bf09bdf57a"
+    },
+    {
       "bk_id": "BK-900066975591066711093568921494536",
       "title": "e-Taxが緊急メンテナンス中。利用できないときに確認する公式情報と期限",
       "category": "",
