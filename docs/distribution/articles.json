@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900013739592549900198570030666858",
+      "title": "若手が辞め、ベテランが黙る職場で確認したいこと",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nab03f1d391d3",
+      "published_at": "2026-11-05T12:14:55+09:00",
+      "image": "media/BK-900013739592549900198570030666858-dec6732a629f0766.jpg",
+      "image_sha256": "dec6732a629f076667464d8539cfdea4c3ffde8cf9cb4ae4cd0f30e87581e129"
+    },
+    {
       "bk_id": "BK-900055348883429031053893850444363",
       "title": "還元率より使い切りやすさ。期間限定ポイントの出口を先に決める",
       "category": "",
