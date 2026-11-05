@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900018577853487196327504103534052",
+      "title": "AIの投資用語説明は正しい？JPX資料で「指値・成行・ETF」を照合する方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n548804524a6d",
+      "published_at": "2026-11-06T07:16:03+09:00",
+      "image": "media/BK-900018577853487196327504103534052-24b238a7977b3e7a.jpg",
+      "image_sha256": "24b238a7977b3e7a24534272520660dc9a1872741c80f9024c1a679db66e95b4"
+    },
+    {
       "bk_id": "BK-900027011474197943257667244711681",
       "title": "Excel表を整えたら数字が変わった？値と数式を残す3つの練習",
       "category": "",
