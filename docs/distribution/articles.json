@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900057539799015920395780476239205",
+      "title": "家計のサブスク一覧を「利用場面順」で見直す方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne2c85ff3a80b",
+      "published_at": "2026-11-06T07:20:21+09:00",
+      "image": "media/BK-900057539799015920395780476239205-0c8fceaee420b9fb.jpg",
+      "image_sha256": "0c8fceaee420b9fb6daba9f39a98e5de66531db75c012aaeed7745d2fb478a2f"
+    },
+    {
       "bk_id": "BK-900018577853487196327504103534052",
       "title": "AIの投資用語説明は正しい？JPX資料で「指値・成行・ETF」を照合する方法",
       "category": "",
