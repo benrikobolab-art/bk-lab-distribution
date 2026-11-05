@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077657217331630947361212944871",
+      "title": "ChatGPTへの追加質問、何を聞けばいい？ すぐ使える10パターン",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n47e9a81afe1f",
+      "published_at": "2026-11-05T12:08:23+09:00",
+      "image": "media/BK-900077657217331630947361212944871-f45d6167210ce177.jpg",
+      "image_sha256": "f45d6167210ce177fd71470fd7374abc133affc4520052419c09839420d009b9"
+    },
+    {
       "bk_id": "BK-900050149340664611024833689711131",
       "title": "Excelで絞り込んだのに合計が変わらない？表示行・手動非表示・件数を3つの練習で確認",
       "category": "",
