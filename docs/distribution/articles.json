@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900062095630765391471460832210335",
+      "title": "PowerPointのグラフ、どの棒を見ればいい？ 色・文字・目盛線を整える3つの練習",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n31bbbf2f172c",
+      "published_at": "2026-11-07T07:36:13+09:00",
+      "image": "media/BK-900062095630765391471460832210335-0d4be9c760be07f8.jpg",
+      "image_sha256": "0d4be9c760be07f8dcec2d57b4c8737c88b6e9435b4cabf11c99767f74ed4411"
+    },
+    {
+      "bk_id": "BK-900077036814128115464834011972454",
+      "title": "クレジットカードのキャンペーンに追われない。参加前に決める4つの基準",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nf1704253ef99",
+      "published_at": "2026-11-07T07:35:11+09:00",
+      "image": "media/BK-900077036814128115464834011972454-6e7b62d58e38845a.jpg",
+      "image_sha256": "6e7b62d58e38845a51f28aa621cfd6fcac2c4e874a8a42950725bbec49026975"
+    },
+    {
       "bk_id": "BK-900023754044222712669385206447930",
       "title": "「専門家として答えて」は効く？AIの役割指定を比べる方法",
       "category": "",
