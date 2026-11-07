@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900031314992265816926277880978059",
+      "title": "ExcelのグラフをPowerPointへ。貼り付けて終わらせない3つの練習",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n75d82ea06252",
+      "published_at": "2026-11-08T08:45:15+09:00",
+      "image": "media/BK-900031314992265816926277880978059-c87d18dbf947ff16.jpg",
+      "image_sha256": "c87d18dbf947ff163e3e083e46f1f8f9d6ffd17e0edb8735fef9be8ab61e78ca"
+    },
+    {
       "bk_id": "BK-900067356579675554283572145489551",
       "title": "スマホのホーム画面を1ページに。7日間試して配置を見直す方法",
       "category": "",
