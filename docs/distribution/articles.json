@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077990267959543955932140908537",
+      "title": "AIに聞いたExcelの集計、合計が合わないときに確認する3点",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ndf657ddf7889",
+      "published_at": "2026-11-09T07:29:31+09:00",
+      "image": "media/BK-900077990267959543955932140908537-ce724c1e885e71b3.jpg",
+      "image_sha256": "ce724c1e885e71b30a48bfe301dd979e00c266ce3a24f0a59c1f347f919d5969"
+    },
+    {
       "bk_id": "BK-900035012518641190497646039660717",
       "title": "ボーナスを使う前に「守る・近く使う・育てる」へ分ける",
       "category": "",
