@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900053603027832718417656963343256",
+      "title": "新NISAの非課税を確認｜配当の受取方式・課税口座・旧NISAの3ケース",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n019a36cf147c",
+      "published_at": "2026-11-09T07:25:04+09:00",
+      "image": "media/BK-900053603027832718417656963343256-96c5ab17a11d4d75.jpg",
+      "image_sha256": "96c5ab17a11d4d75c4d21907a3f73f7c834d34c0b3b738be18142d33cfab6244"
+    },
+    {
+      "bk_id": "BK-900064451523453267405494353836076",
+      "title": "家計簿の費目を減らすと振り返りは楽になる？6分類で試す",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6aa5cbb0bbda",
+      "published_at": "2026-11-09T07:23:36+09:00",
+      "image": "media/BK-900064451523453267405494353836076-25135dc8da7693a6.jpg",
+      "image_sha256": "25135dc8da7693a65920ec8520b3fcf28d8c8945c04b9cdd3e6903dd163afdc2"
+    },
+    {
       "bk_id": "BK-900031314992265816926277880978059",
       "title": "ExcelのグラフをPowerPointへ。貼り付けて終わらせない3つの練習",
       "category": "",
