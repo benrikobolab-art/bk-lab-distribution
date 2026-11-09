@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900029036198896363590170279902570",
+      "title": "AIへの初回依頼は何を書く？初心者向け「3つのこと」",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n54fd3a128136",
+      "published_at": "2026-11-10T07:15:03+09:00",
+      "image": "media/BK-900029036198896363590170279902570-fefd70cb393152d9.jpg",
+      "image_sha256": "fefd70cb393152d95253ca187dfc57e0e40d09de1c6699acfb09e51b159e2a31"
+    },
+    {
       "bk_id": "BK-900077990267959543955932140908537",
       "title": "AIに聞いたExcelの集計、合計が合わないときに確認する3点",
       "category": "",
