@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900064523173448572041675204693056",
+      "title": "ビットコインが半値になるとしたら？大幅下落につながり得る5つの経路",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nbbca64239e27",
+      "published_at": "2026-11-10T07:18:57+09:00",
+      "image": "media/BK-900064523173448572041675204693056-68d641538a81f193.jpg",
+      "image_sha256": "68d641538a81f19331ea1237e1c1c93b21fda823e38fa6f9e7178a3417711b2c"
+    },
+    {
+      "bk_id": "BK-900044619387095402685343824585268",
+      "title": "「ポジる」「ナンピン」「JC」「お祈り」とは？投資スラング4語の読み方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n5e5aace73db4",
+      "published_at": "2026-11-10T07:16:48+09:00",
+      "image": "media/BK-900044619387095402685343824585268-e94aeabefbb817e1.jpg",
+      "image_sha256": "e94aeabefbb817e1f75544f59750e9c70ac20477e6e4586bf068ecb57138be96"
+    },
+    {
       "bk_id": "BK-900029036198896363590170279902570",
       "title": "AIへの初回依頼は何を書く？初心者向け「3つのこと」",
       "category": "",
