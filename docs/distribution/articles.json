@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90008575925362082326162422353173",
+      "title": "余ったPC・モニター・HDD・USBメモリ、再利用と処分の前に何を確認する？",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na1181f97d446",
+      "published_at": "2026-11-11T07:36:49+09:00",
+      "image": "media/BK-90008575925362082326162422353173-99d12aa86853754c.jpg",
+      "image_sha256": "99d12aa86853754cddc0d8ec352ffbcdc2684d271f62d997883a5ec39ac05bf0"
+    },
+    {
       "bk_id": "BK-900015418373889448608165553332858",
       "title": "iOS 27.2.1公開｜対象機種とiPhone・iPad更新前の確認手順",
       "category": "",
