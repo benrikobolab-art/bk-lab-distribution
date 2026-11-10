@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900015418373889448608165553332858",
+      "title": "iOS 27.2.1公開｜対象機種とiPhone・iPad更新前の確認手順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nad03bd35e8b0",
+      "published_at": "2026-11-11T07:35:32+09:00",
+      "image": "media/BK-900015418373889448608165553332858-6d2f664c96f7fef8.jpg",
+      "image_sha256": "6d2f664c96f7fef8df311eb587f07202f4dcc6cf9e2e62429c3c5d7d6ea04a86"
+    },
+    {
+      "bk_id": "BK-900027074467407175419197158310376",
+      "title": "NISAの配当は配偶者控除に影響する？課税関係・申告方法・2026年分の確認順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/naf477e042457",
+      "published_at": "2026-11-11T07:34:40+09:00",
+      "image": "media/BK-900027074467407175419197158310376-7d87ae1525dfc224.jpg",
+      "image_sha256": "7d87ae1525dfc22405c2385a24acb9f9db3a42ce2a53a97295a5419997aef3b6"
+    },
+    {
+      "bk_id": "BK-900058420485709288569316470184232",
+      "title": "ビットコイン8万ドルは高い？単価と時価総額を分けて考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/naffe32a15621",
+      "published_at": "2026-11-11T07:32:45+09:00",
+      "image": "media/BK-900058420485709288569316470184232-3ce626119e62251b.jpg",
+      "image_sha256": "3ce626119e62251b4aaef940d0b8dc36cec53953e83f1ace84200a22a08c5f7d"
+    },
+    {
       "bk_id": "BK-900064523173448572041675204693056",
       "title": "ビットコインが半値になるとしたら？大幅下落につながり得る5つの経路",
       "category": "",
