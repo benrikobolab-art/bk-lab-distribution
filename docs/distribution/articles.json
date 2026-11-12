@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900016958251501224582980040925838",
+      "title": "銀行振込を間違えたらお金は戻る？「組戻し」と返金されない条件",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nd64c6b68fa23",
+      "published_at": "2026-11-13T07:48:54+09:00",
+      "image": "media/BK-900016958251501224582980040925838-fee25d87181de14c.jpg",
+      "image_sha256": "fee25d87181de14cfb4844ec4d07e6234f74bac19e710cbb7e11622902dbc6b8"
+    },
+    {
       "bk_id": "BK-900073403308350023022405952037960",
       "title": "ChatGPTは一発で決めなくていい｜追加質問で回答を整える方法",
       "category": "",
