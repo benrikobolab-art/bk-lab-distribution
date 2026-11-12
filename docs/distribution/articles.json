@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900020459836828230195463931443141",
+      "title": "ビットコインは「デジタルゴールド」なのか？2025年の金・BTC・株を比較",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nfb3f856d92b0",
+      "published_at": "2026-11-13T07:52:33+09:00",
+      "image": "media/BK-900020459836828230195463931443141-9df34d5ff6e7606c.jpg",
+      "image_sha256": "9df34d5ff6e7606cf522cfd8ee559edf4c240d90757a785075e6ac4ac720da7f"
+    },
+    {
       "bk_id": "BK-900016958251501224582980040925838",
       "title": "銀行振込を間違えたらお金は戻る？「組戻し」と返金されない条件",
       "category": "",
