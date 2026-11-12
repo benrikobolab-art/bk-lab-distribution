@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900073403308350023022405952037960",
+      "title": "ChatGPTは一発で決めなくていい｜追加質問で回答を整える方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n8cade3ff5fa1",
+      "published_at": "2026-11-13T07:44:55+09:00",
+      "image": "media/BK-900073403308350023022405952037960-acb6d51aba73cacc.jpg",
+      "image_sha256": "acb6d51aba73cacc58e538a79ba5ef548267d164e085d1dd13c44bd010d5f920"
+    },
+    {
       "bk_id": "BK-900038493504220994459285564967666",
       "title": "FOMCとビットコインの関係｜利上げ・利下げとBTCを見るポイント",
       "category": "",
