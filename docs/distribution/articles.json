@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90002628097873012173798969743966",
+      "title": "二段階認証しているから安心、は本当？ 突破される仕組みと防ぎ方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nd8f6873b13c4",
+      "published_at": "2026-11-14T16:00:31+09:00",
+      "image": "media/BK-90002628097873012173798969743966-24f8e5a4472e302c.jpg",
+      "image_sha256": "24f8e5a4472e302c457163ed901565c4d110879bdee1979206371bc92dba498a"
+    },
+    {
       "bk_id": "BK-9000658409350496168817852995048",
       "title": "Excelの重複を消す前に 件数・金額・IDを照合する3つの練習",
       "category": "",
