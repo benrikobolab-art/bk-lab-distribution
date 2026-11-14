@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900068355909807298455085415395541",
+      "title": "BTCの5つの数字を同じ条件で読む｜四条件と意味の違い",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n29b686218092",
+      "published_at": "2026-11-14T11:15:40+09:00",
+      "image": "media/BK-900068355909807298455085415395541-a43406dfc79e06d1.jpg",
+      "image_sha256": "a43406dfc79e06d1aa88f22a3459a91db0be02c29e359f433a0818b5cc52c69d"
+    },
+    {
+      "bk_id": "BK-90005791541888664118521395344949",
+      "title": "「今からビットコインを買うのは遅い？」月1万円・3万円・5万円を10年積み立てる架空試算",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne4f1a3fb8be1",
+      "published_at": "2026-11-14T11:14:14+09:00",
+      "image": "media/BK-90005791541888664118521395344949-827778a4def0e146.jpg",
+      "image_sha256": "827778a4def0e146af9e3e3b0f4d0dc06e9f7cdcc3d3ab7dc68f559a044223b7"
+    },
+    {
       "bk_id": "BK-900069518614371177692888151862990",
       "title": "AIに「買いか？」と聞く前後に確認したい10項目",
       "category": "",
