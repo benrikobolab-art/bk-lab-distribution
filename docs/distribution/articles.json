@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900077531801968878950309155138859",
+      "title": "「良いCPI」ならビットコインは上がる？公表値・予想・価格を分ける確認順",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/naa07c0422fb9",
+      "published_at": "2026-11-15T07:31:15+09:00",
+      "image": "media/BK-900077531801968878950309155138859-deb047c14cc9cc4a.jpg",
+      "image_sha256": "deb047c14cc9cc4af45a05c5c5b4b7fa8b7047d73c723469e35f98c65a79ddc6"
+    },
+    {
+      "bk_id": "BK-900062012525914203731845627026240",
+      "title": "NASDAQ総合指数とBTCはどう比べる？共通日付と変化なしの判定方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nbc877037d3cd",
+      "published_at": "2026-11-15T07:29:33+09:00",
+      "image": "media/BK-900062012525914203731845627026240-0317011de3939aa6.jpg",
+      "image_sha256": "0317011de3939aa657f522321ffc78dea5897a1e5ff8c09b20bfe734072ada62"
+    },
+    {
       "bk_id": "BK-900078735154400637628489693261289",
       "title": "ビットコインETFに1,000億円入ると価格は上がる？「流入」の数字を読み分ける",
       "category": "",
