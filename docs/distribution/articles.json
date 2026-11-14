@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900057225387302838101923640596176",
+      "title": "パスキーはなぜフィッシングに強い？ SMS認証との違いを初心者向けに解説",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n6f58318649fc",
+      "published_at": "2026-11-14T16:07:10+09:00",
+      "image": "media/BK-900057225387302838101923640596176-8f2f3fa5f8a35142.jpg",
+      "image_sha256": "8f2f3fa5f8a35142c102620b66277be28dadbfc5253e86d51f6a69b7ba8d9c41"
+    },
+    {
       "bk_id": "BK-90002628097873012173798969743966",
       "title": "二段階認証しているから安心、は本当？ 突破される仕組みと防ぎ方",
       "category": "",
