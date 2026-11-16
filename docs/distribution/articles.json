@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900029022582104689522712624286574",
+      "title": "Notion AIの会話記録が対象に｜会社員は通知から何を確認する？",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2c4bd53fa220",
+      "published_at": "2026-11-16T10:20:43+09:00",
+      "image": "media/BK-900029022582104689522712624286574-fbd35e80147225f0.jpg",
+      "image_sha256": "fbd35e80147225f0712ae65e94edce983854ad3de16b1cb2ba2658c28df334a4"
+    },
+    {
+      "bk_id": "BK-900052601428000674037564826823258",
+      "title": "日本株の急落と「好決算なのに下落」をどう読む？原因を決めつけない資料整理",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na665cee50647",
+      "published_at": "2026-11-16T10:19:55+09:00",
+      "image": "media/BK-900052601428000674037564826823258-d6b4cb08077867bb.jpg",
+      "image_sha256": "d6b4cb08077867bbd1651b42bbea4c4d861fc38048ebfbd259bfad18c6e72270"
+    },
+    {
+      "bk_id": "BK-900016531141587209461255198905429",
+      "title": "株価上昇で買いたくなったら｜AIで根拠・日付・資金条件を点検する",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n7b67973b168f",
+      "published_at": "2026-11-16T10:19:06+09:00",
+      "image": "media/BK-900016531141587209461255198905429-062b29c5a15764aa.jpg",
+      "image_sha256": "062b29c5a15764aad5c591ee27c5185a3598e681b5ecee58ff7c66e06a78e1ce"
+    },
+    {
       "bk_id": "BK-900077531801968878950309155138859",
       "title": "「良いCPI」ならビットコインは上がる？公表値・予想・価格を分ける確認順",
       "category": "",
