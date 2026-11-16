@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900055834272929032666477514698678",
+      "title": "AIの株調査で出典をどう確かめる？10項目の確認表と依頼文",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n769bff5bb3d1",
+      "published_at": "2026-11-17T06:43:46+09:00",
+      "image": "media/BK-900055834272929032666477514698678-6b785a3e11d042f4.jpg",
+      "image_sha256": "6b785a3e11d042f4c440308898c02de2959f54ae7eaca7aeb8e2fe8dbeaaed68"
+    },
+    {
       "bk_id": "BK-900029887087137051078934102393460",
       "title": "AIとExcelで検索前にIDの候補件数を数える｜架空表で1件・複数・該当なしを分ける",
       "category": "",
