@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900015134530861461460191215634791",
+      "title": "ソフトバンク「スマホデビュープラン＋」「ケータイ4GBプラン」の申込受付、2026年11月17日に終了へ",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ncafe14f2fdca",
+      "published_at": "2026-11-17T06:56:13+09:00",
+      "image": "media/BK-900015134530861461460191215634791-f084828aa72d58ca.jpg",
+      "image_sha256": "f084828aa72d58ca43937e677deb4d19b57fe2ce6e2d21f5ac2306b9a6f60a5c"
+    },
+    {
+      "bk_id": "BK-90003566787355316483572221856901",
+      "title": "BTCを10万ドルで試算すると何兆ドル？金・Apple・NVIDIAとの規模比較",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n062dd982f8c7",
+      "published_at": "2026-11-17T06:55:34+09:00",
+      "image": "media/BK-90003566787355316483572221856901-e4c3f7cafba46ee7.jpg",
+      "image_sha256": "e4c3f7cafba46ee74e12cfc7170bca3c4de87b82d16e2f80228329ed131a1c5e"
+    },
+    {
       "bk_id": "BK-900079123692126992522524585557821",
       "title": "2027年の親子NISA、枠が足りる？配分前に確かめる3つの計算",
       "category": "",
