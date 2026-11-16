@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900029887087137051078934102393460",
+      "title": "AIとExcelで検索前にIDの候補件数を数える｜架空表で1件・複数・該当なしを分ける",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nc356b75a9134",
+      "published_at": "2026-11-16T20:20:50+09:00",
+      "image": "media/BK-900029887087137051078934102393460-f3eeea673214dbcf.jpg",
+      "image_sha256": "f3eeea673214dbcf0c25cc13fa0058604bfc0a09a32d6fc0d2af91918c289841"
+    },
+    {
       "bk_id": "BK-900029022582104689522712624286574",
       "title": "Notion AIの会話記録が対象に｜会社員は通知から何を確認する？",
       "category": "",
