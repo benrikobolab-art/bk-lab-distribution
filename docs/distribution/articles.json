@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900051722338493954445212660052734",
+      "title": "ChatGPTへの質問を具体的にする方法――依頼・背景・出力の伝え方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nd76401147a8c",
+      "published_at": "2026-11-18T07:37:25+09:00",
+      "image": "media/BK-900051722338493954445212660052734-d56c75757850a9bc.jpg",
+      "image_sha256": "d56c75757850a9bc375955f61d0491ace872e542e977e1a5fbe58d81b1ba1378"
+    },
+    {
       "bk_id": "BK-900071175998794413805199964572224",
       "title": "日報の未完了をどう引き継ぐ？担当・期限・次の一手の書き方",
       "category": "",
