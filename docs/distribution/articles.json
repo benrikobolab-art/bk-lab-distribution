@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900076380378160105970514070266933",
+      "title": "Gemini Decision 1とは？ GoogleのDecisions APIが評価する選択肢・確率・確信度",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne57f59304ff3",
+      "published_at": "2026-11-18T07:24:51+09:00",
+      "image": "media/BK-900076380378160105970514070266933-6f2ce401e55512c1.jpg",
+      "image_sha256": "6f2ce401e55512c17a4880fe626208740ec48b974c8cc87bbfa80a02aa941bde"
+    },
+    {
       "bk_id": "BK-900015134530861461460191215634791",
       "title": "ソフトバンク「スマホデビュープラン＋」「ケータイ4GBプラン」の申込受付、2026年11月17日に終了へ",
       "category": "",
