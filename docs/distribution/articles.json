@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90002715084389274618994410902053",
+      "title": "GPT-6.2 AstraとSolとは？ChatGPT Work・Codexでの順次提供と確認先",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n3b853034b901",
+      "published_at": "2026-11-19T07:19:38+09:00",
+      "image": "media/BK-90002715084389274618994410902053-4deb3a7fcb4a06eb.jpg",
+      "image_sha256": "4deb3a7fcb4a06eb23adcf1195aad6b0ddba1be9710688c202e587fe1938fdf1"
+    },
+    {
+      "bk_id": "BK-900032603950117772901678401368530",
+      "title": "口座を分けると複利は弱くなる？同じ月利で2か月の架空計算",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne96245d367c3",
+      "published_at": "2026-11-19T07:18:55+09:00",
+      "image": "media/BK-900032603950117772901678401368530-840518076222e953.jpg",
+      "image_sha256": "840518076222e9530face1ef8bbcd7c94e1c27f3227507e7e7cd8f2b475ff5df"
+    },
+    {
       "bk_id": "BK-900033666446853650867819959025863",
       "title": "AIが抜き出した決算数字を元表で確かめる｜10項目の照合メモ",
       "category": "",
