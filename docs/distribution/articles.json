@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900043960879587418140856344675077",
+      "title": "Geminiの「Task」モード、日本で無料の順次展開｜利用条件と始め方",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n252a9399a658",
+      "published_at": "2026-11-19T04:33:48+09:00",
+      "image": "media/BK-900043960879587418140856344675077-0a014139d00b68bf.jpg",
+      "image_sha256": "0a014139d00b68bf62d2da310a76b7321b8e127498a32d956709c9b9842886e9"
+    },
+    {
       "bk_id": "BK-900051722338493954445212660052734",
       "title": "ChatGPTへの質問を具体的にする方法――依頼・背景・出力の伝え方",
       "category": "",
