@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900017660992494056288503697208635",
+      "title": "ウイルス対策に加えて何を確認する？ Windows セキュリティの3つの保護",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/nbaa5575cef04",
+      "published_at": "2026-11-20T07:27:47+09:00",
+      "image": "media/BK-900017660992494056288503697208635-e34e4e1d41a4cb5c.jpg",
+      "image_sha256": "e34e4e1d41a4cb5c733c3f4e4964f7eeb3eff8c7e88eb7744ab74ca9d54f9e80"
+    },
+    {
       "bk_id": "BK-90002715084389274618994410902053",
       "title": "GPT-6.2 AstraとSolとは？ChatGPT Work・Codexでの順次提供と確認先",
       "category": "",
