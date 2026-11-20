@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900052372210431189055297711072724",
+      "title": "親のスマホ買い替え、見積もりで確認する費用｜機種代金・通信料金・オプション",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0a08ea89352d",
+      "published_at": "2026-11-21T07:29:32+09:00",
+      "image": "media/BK-900052372210431189055297711072724-652905591aa808d7.jpg",
+      "image_sha256": "652905591aa808d71ae3d46f7b6ccb1f79886494714995ef51369381598c0320"
+    },
+    {
+      "bk_id": "BK-900071372280867578208606177631242",
+      "title": "便利工房ラボに5人の仲間が加わります｜困ったときの案内役をご紹介",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n472e8ca11ac0",
+      "published_at": "2026-11-21T07:28:57+09:00",
+      "image": "media/BK-900071372280867578208606177631242-374be6badd4ac010.jpg",
+      "image_sha256": "374be6badd4ac010eb0d3f4754c13e8732e2546b81144377a3de09d880791c46"
+    },
+    {
       "bk_id": "BK-900064483882908167440396076326977",
       "title": "Microsoft To Doアプリは2027年6月30日に廃止へ｜既存タスクの扱いと準備",
       "category": "",
