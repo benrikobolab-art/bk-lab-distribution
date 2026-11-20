@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900064483882908167440396076326977",
+      "title": "Microsoft To Doアプリは2027年6月30日に廃止へ｜既存タスクの扱いと準備",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n0d3fccb18f5e",
+      "published_at": "2026-11-21T00:42:12+09:00",
+      "image": "media/BK-900064483882908167440396076326977-43157944c442c7b0.jpg",
+      "image_sha256": "43157944c442c7b074df3ac61a22456007ce972ae74e35cea9eb2a18c2660664"
+    },
+    {
       "bk_id": "BK-900028712932165487817174049021344",
       "title": "住宅ローンの「当初固定」はいつまで？固定期間と終了後に確認する3項目",
       "category": "",
