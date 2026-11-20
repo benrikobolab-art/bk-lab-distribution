@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900072976679803697562039614032724",
+      "title": "モバイルSuicaのteppayは2026年10月20日開始｜使える店・残高・チャージ前の確認",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n08496bc6703f",
+      "published_at": "2026-11-21T07:31:07+09:00",
+      "image": "media/BK-900072976679803697562039614032724-64b9330b9a0f9817.jpg",
+      "image_sha256": "64b9330b9a0f9817af3b90080d4a2c2470a6c8bfa165a0bb274ef7b2380f2789"
+    },
+    {
+      "bk_id": "BK-900033794705987345473482004009014",
+      "title": "Gmailが気になったときのGoogleセキュリティ診断｜端末・連携アプリ・再設定用情報の3項目",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n3d0d8f35da26",
+      "published_at": "2026-11-21T07:30:26+09:00",
+      "image": "media/BK-900033794705987345473482004009014-3558a79b7fb26a5d.jpg",
+      "image_sha256": "3558a79b7fb26a5d273909ded246eca69e80838720297f8218909519fc3179b3"
+    },
+    {
       "bk_id": "BK-900052372210431189055297711072724",
       "title": "親のスマホ買い替え、見積もりで確認する費用｜機種代金・通信料金・オプション",
       "category": "",
