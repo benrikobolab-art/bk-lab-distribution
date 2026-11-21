@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900065725286952456039028013529574",
+      "title": "警視庁の個人情報漏えい対策資料を読む｜想定される被害と通知後の確認先",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n9ca6e1552131",
+      "published_at": "2026-11-22T07:11:55+09:00",
+      "image": "media/BK-900065725286952456039028013529574-c8b0e24c4630daa8.jpg",
+      "image_sha256": "c8b0e24c4630daa8e371464bc0457a082ea0bbb7e1e4f7806447db0de9ae316f"
+    },
+    {
+      "bk_id": "BK-900055986863957127756079513948080",
+      "title": "1Password for Agentsとは？AIエージェントのログイン承認と利用条件",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne60944277c61",
+      "published_at": "2026-11-22T07:10:46+09:00",
+      "image": "media/BK-900055986863957127756079513948080-df6503290e4b8b5e.jpg",
+      "image_sha256": "df6503290e4b8b5e67a31a02745c6cfe3ef636c0a91f7a8db5d40378f72bfcfe"
+    },
+    {
       "bk_id": "BK-900044855485418352580405331247850",
       "title": "マイナポータルの自治体申請、2026年10月27日から順次移行｜自動入力と修正・再提出の確認点",
       "category": "",
