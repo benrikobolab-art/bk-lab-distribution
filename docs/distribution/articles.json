@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90001060713358337114769040356719",
+      "title": "チケット当選を装う不審メール｜公式経路での確認と情報入力後の対応",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ndac43e8fcfce",
+      "published_at": "2026-11-23T06:58:38+09:00",
+      "image": "media/BK-90001060713358337114769040356719-ad47b8ab94a1bde0.jpg",
+      "image_sha256": "ad47b8ab94a1bde0b8ef19bd7c966f80410a0ba23f6adb180b5d5795c780e1ac"
+    },
+    {
       "bk_id": "BK-900036106414286004248315418446386",
       "title": "PayPayの不審アプリ対策｜導入後の初動・取引履歴・補償申請の確認先",
       "category": "",
