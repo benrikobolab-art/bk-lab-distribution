@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900012622901641144076733748188195",
+      "title": "防犯カメラを設置した後に確認したい車の盗難対策｜施錠・固定器具・鍵の保管",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n5d316aee48a9",
+      "published_at": "2026-11-24T07:10:45+09:00",
+      "image": "media/BK-900012622901641144076733748188195-e680416ac58339d6.jpg",
+      "image_sha256": "e680416ac58339d629f1101dde8260a4319ffb17f6ac511e7db27fa2646c7445"
+    },
+    {
+      "bk_id": "BK-900038516656451896604728651662597",
+      "title": "フィッシング・マルウェア・2FA・パスキーの違い｜セキュリティ基本10語",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n45b839619e8e",
+      "published_at": "2026-11-24T07:08:09+09:00",
+      "image": "media/BK-900038516656451896604728651662597-01ec026ad43cafef.jpg",
+      "image_sha256": "01ec026ad43cafeff83f6f11740394d345c548e8d0fde20b1295de97f3228d13"
+    },
+    {
       "bk_id": "BK-900013584662575508704676648245260",
       "title": "楽天ドライブの不正アクセス｜保存データなどの取得・閲覧と公表された対象範囲・相談先",
       "category": "",
