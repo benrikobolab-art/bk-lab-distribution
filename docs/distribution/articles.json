@@ -2,6 +2,33 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900045843082472080873920440090952",
+      "title": "幅60cmの机でノートPCと外部モニターを使う前に｜寸法と接続の確認方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n608ca40a910d",
+      "published_at": "2026-11-25T07:30:55+09:00",
+      "image": "media/BK-900045843082472080873920440090952-c4ffa77224b87480.jpg",
+      "image_sha256": "c4ffa77224b87480aef98a0504dde899acf683bec96775651c81ad3fafb33d2d"
+    },
+    {
+      "bk_id": "BK-90009278534711251802452823560611",
+      "title": "金融庁、金融機関等にICチップ読取への早期対応を要請｜2027年4月施行との関係",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n14661da4d827",
+      "published_at": "2026-11-25T07:29:51+09:00",
+      "image": "media/BK-90009278534711251802452823560611-771d94598f9e9be6.jpg",
+      "image_sha256": "771d94598f9e9be642d9b06e1ef27ef3bd28c26fab1edbbff38513fc598de51f"
+    },
+    {
+      "bk_id": "BK-900028771103203812547059140903583",
+      "title": "Notion AIの影響通知を受けたら｜対象CSVでAPIキーを確認する方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n60be429c99d6",
+      "published_at": "2026-11-25T07:28:11+09:00",
+      "image": "media/BK-900028771103203812547059140903583-65edee07f42b033a.jpg",
+      "image_sha256": "65edee07f42b033ad3ca73d88956e999e9d39ecea4220cd9227dbfa538fa1246"
+    },
+    {
       "bk_id": "BK-900032160950666381126702698212012",
       "title": "Excelで期限超過の未完了タスクを抽出する｜進捗会議用の管理表",
       "category": "",
