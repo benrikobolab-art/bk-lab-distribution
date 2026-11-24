@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-1470",
+      "title": "受注行を追加した後、件数と金額を照合する｜Excelテーブルと固定範囲の確認方法",
+      "category": "AI・デジタル",
+      "note_url": "https://note.com/benrikobo/n/n135421f3aa6a",
+      "published_at": "2026-11-25T07:53:18+09:00",
+      "image": "media/BK-1470-7a5b7484e449a0f0.jpg",
+      "image_sha256": "7a5b7484e449a0f093106149e2a315b75d1f2cf81721d67bd3e71b347cc351de"
+    },
+    {
       "bk_id": "BK-900045843082472080873920440090952",
       "title": "幅60cmの机でノートPCと外部モニターを使う前に｜寸法と接続の確認方法",
       "category": "",
