@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900030903330305679189782012803140",
+      "title": "ChatGPTへの仕事の頼み方｜目的・材料・条件・完成形・確認の5項目",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne15394f2e164",
+      "published_at": "2026-11-26T07:14:21+09:00",
+      "image": "media/BK-900030903330305679189782012803140-8f3c582cd7b57e38.jpg",
+      "image_sha256": "8f3c582cd7b57e38351e472d5ae21fb9e98357b522d5de2543e96e7903f3d9b1"
+    },
+    {
       "bk_id": "BK-1470",
       "title": "受注行を追加した後、件数と金額を照合する｜Excelテーブルと固定範囲の確認方法",
       "category": "AI・デジタル",
