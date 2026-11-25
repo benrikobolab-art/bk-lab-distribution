@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900038187328834049965320873250901",
+      "title": "AIの文章を仕事で共有する前に｜内容と根拠を確かめる5段階",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n015f942856e9",
+      "published_at": "2026-11-26T07:17:48+09:00",
+      "image": "media/BK-900038187328834049965320873250901-1ea5ff5d086e359e.jpg",
+      "image_sha256": "1ea5ff5d086e359e88e69b5acd223f09149b5999521ef778fdc04393740693a3"
+    },
+    {
+      "bk_id": "BK-900021245858821540885486255907935",
+      "title": "LINEの「スクロールプレビュー」とは？未読で過去のトークを確認する方法と利用条件",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n10ff7db377fb",
+      "published_at": "2026-11-26T07:16:38+09:00",
+      "image": "media/BK-900021245858821540885486255907935-f7f576541b64fa3d.jpg",
+      "image_sha256": "f7f576541b64fa3d9b94d91f0c3e6879726a0d2b76474ae9fdf34377189e79c0"
+    },
+    {
       "bk_id": "BK-900030903330305679189782012803140",
       "title": "ChatGPTへの仕事の頼み方｜目的・材料・条件・完成形・確認の5項目",
       "category": "",
