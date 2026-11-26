@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900064486558797171244259183371862",
+      "title": "ドコモオンラインショップ・My docomoの不正アクセス｜情報流出とサービス再開状況（11月22日発表時点）",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n2913c4faa68d",
+      "published_at": "2026-11-27T07:10:49+09:00",
+      "image": "media/BK-900064486558797171244259183371862-a4d3e9f04c59fd5d.jpg",
+      "image_sha256": "a4d3e9f04c59fd5dafc26320502bd051222762e1d5df46d38efcd9532cb9f06a"
+    },
+    {
+      "bk_id": "BK-900042753254942176359782942753409",
+      "title": "NERV防災ライブはどこで見る？ YouTubeでの視聴先・表示内容・注意点",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ndbf1ea665da1",
+      "published_at": "2026-11-27T07:09:27+09:00",
+      "image": "media/BK-900042753254942176359782942753409-3017c74718add8d9.jpg",
+      "image_sha256": "3017c74718add8d92b76ba4e69db0e615daeba869ebd67b3b1451e20dda59957"
+    },
+    {
       "bk_id": "BK-900019728674655257275596368674869",
       "title": "Geminiの「タスク」で道順を下調べ｜図書館の公式案内で結果を確かめる方法",
       "category": "",
