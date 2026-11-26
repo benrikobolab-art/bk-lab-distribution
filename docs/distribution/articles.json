@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900019728674655257275596368674869",
+      "title": "Geminiの「タスク」で道順を下調べ｜図書館の公式案内で結果を確かめる方法",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n94ee8463e33e",
+      "published_at": "2026-11-27T07:08:10+09:00",
+      "image": "media/BK-900019728674655257275596368674869-fe32c449578825a6.jpg",
+      "image_sha256": "fe32c449578825a638965f6aa7f532813355edea8a360102723bcb7b57001ef9"
+    },
+    {
       "bk_id": "BK-900019446371155619017095691700259",
       "title": "Claude ShipでPRはどこまで任せられる？ 承認とマージの違い",
       "category": "",
