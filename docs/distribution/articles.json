@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900019446371155619017095691700259",
+      "title": "Claude ShipでPRはどこまで任せられる？ 承認とマージの違い",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n9023b9d066f5",
+      "published_at": "2026-11-26T19:43:20+09:00",
+      "image": "media/BK-900019446371155619017095691700259-04debaba1b93a98b.jpg",
+      "image_sha256": "04debaba1b93a98becc549fe7b46d513d86dc3f1c975b35a1146af92fa761c71"
+    },
+    {
+      "bk_id": "BK-900020315103266253860657744864910",
+      "title": "NVIDIAのCEOは11日で復帰。決まったこと、まだ決まっていないこと",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ndff3cbac1a6d",
+      "published_at": "2026-11-26T19:43:11+09:00",
+      "image": "media/BK-900020315103266253860657744864910-04debaba1b93a98b.jpg",
+      "image_sha256": "04debaba1b93a98becc549fe7b46d513d86dc3f1c975b35a1146af92fa761c71"
+    },
+    {
       "bk_id": "BK-900038187328834049965320873250901",
       "title": "AIの文章を仕事で共有する前に｜内容と根拠を確かめる5段階",
       "category": "",
