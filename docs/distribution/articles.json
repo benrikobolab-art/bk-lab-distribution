@@ -2,6 +2,24 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-90006101081720694867291974835731",
+      "title": "GPT-6.2 Astra／SolをCodexで選ぶには｜モデル選択の目安と利用条件",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n98d0308fc949",
+      "published_at": "2026-11-27T10:10:27+09:00",
+      "image": "media/BK-90006101081720694867291974835731-ccd070a53f1fd8ed.jpg",
+      "image_sha256": "ccd070a53f1fd8ed4d92dd97f174555610822404b13e5ef21bc0513af2ebac1a"
+    },
+    {
+      "bk_id": "BK-900057202947066320697443563311147",
+      "title": "子どものコンセント感電に注意｜やけど・電撃傷の入院事例と家庭での対策",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/n063ebe791d24",
+      "published_at": "2026-11-27T10:08:50+09:00",
+      "image": "media/BK-900057202947066320697443563311147-f1bde260fe92875f.jpg",
+      "image_sha256": "f1bde260fe92875f953ecfccb49fb2a79c61cbc52e468ab4863d3940df29516b"
+    },
+    {
       "bk_id": "BK-900064486558797171244259183371862",
       "title": "ドコモオンラインショップ・My docomoの不正アクセス｜情報流出とサービス再開状況（11月22日発表時点）",
       "category": "",
