@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900012800372651171995154777459349",
+      "title": "年末の大掃除を数日に分ける方法｜片づけ・予定・掃除順の3つの区切り",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/na5db79f1d14c",
+      "published_at": "2026-11-28T09:53:22+09:00",
+      "image": "media/BK-900012800372651171995154777459349-2dcb1485635c0b39.jpg",
+      "image_sha256": "2dcb1485635c0b396dc0e8a74199bee0a5d59cd9faaa8e7d8243d2a034bb1421"
+    },
+    {
       "bk_id": "BK-90006101081720694867291974835731",
       "title": "GPT-6.2 Astra／SolをCodexで選ぶには｜モデル選択の目安と利用条件",
       "category": "",
