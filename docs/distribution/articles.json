@@ -2,6 +2,15 @@
   "schema_version": 1,
   "articles": [
     {
+      "bk_id": "BK-900038355233492834045034577774500",
+      "title": "算数の文章題で必要な数字を選ぶには｜求めるものから式を考える",
+      "category": "",
+      "note_url": "https://note.com/benrikobo/n/ne77a268fd44e",
+      "published_at": "2026-11-28T09:59:28+09:00",
+      "image": "media/BK-900038355233492834045034577774500-dcf35f3cc808ddc3.jpg",
+      "image_sha256": "dcf35f3cc808ddc3cebee4db4da135cea252a87878f7c50b302ffcd313e993aa"
+    },
+    {
       "bk_id": "BK-900058940416052614983841978426783",
       "title": "iPhoneで見つからないアプリを探してホーム画面に戻す方法｜検索・非表示ページ・アプリライブラリ",
       "category": "",
